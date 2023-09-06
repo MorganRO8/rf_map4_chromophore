@@ -1,0 +1,622 @@
+https://www.nature.com/articles/s41597-020-00634-8,,,,,,,,,,,,
+Tag,Chromophore (SMILES),Absorption max (nm),Emission max (nm),Lifetime (ns),Quantum yield,log(e/mol-1 dm3 cm-1),abs FWHM (cm-1),emi FWHM (cm-1),abs FWHM (nm),emi FWHM (nm),Molecular weight (g mol-1),Reference
+1,N#Cc1cc2ccc(O)cc2oc1=O,355,410,2.804262479,NaN,NaN,NaN,NaN,NaN,NaN,187.1537,DOI: 10.1021/acs.jpcb.5b09905
+2,N#Cc1cc2ccc([O-])cc2oc1=O,408,450,3.961965135,NaN,NaN,NaN,NaN,NaN,43,186.14576,DOI: 10.1021/acs.jpcb.5b09905
+19,Cc1cc(=O)oc2c3c4c(cc12)CCCN4CCC3,396,489,5.9,NaN,NaN,NaN,NaN,NaN,NaN,255.31598,DOI: 10.1021/j100248a024
+34,CCN(CC)c1ccc2c(c1)OC1=CC(N(CC)CC)C=CC1[C+]2c1ccccc1C(=O)O,NaN,NaN,1.52,NaN,NaN,NaN,NaN,NaN,NaN,445.58102,https://doi.org/10.1111/j.1751-1097.1999.tb08277.x
+91,CCC(=O)c1ccc2cc(N(C)C)ccc2c1,364,531,2.1,NaN,NaN,NaN,2614,NaN,NaN,227.30598,doi/10.1021/bi00581a025
+170,Cc1ccc(N(CC(=O)[O-])CC(=O)[O-])c(OCCOc2cc3cc(-c4ncc(C(=O)[O-])o4)oc3cc2N(CC(=O)[O-])CC(=O)[O-])c1,362,500,1.09,NaN,NaN,NaN,NaN,NaN,NaN,636.50068,http://www.iss.com/resources/research/technical_notes/K2CH_FLT.html
+171,Cc1ccc(N(CC(=O)[O-])CC(=O)[O-])cc1OCCOc1cc(-c2cc3ccc(C(=O)[O-])cc3[nH]2)ccc1N(CC(=O)[O-])CC(=O)[O-],349,482,1.4,NaN,NaN,NaN,NaN,NaN,NaN,644.56744,http://www.iss.com/resources/research/technical_notes/K2CH_FLT.html
+172,CC(=O)OCOC(=O)CN(CC(=O)OCOC(C)=O)c1ccccc1OCCOc1cc(NC(=O)c2ccc3c(c2)C(=O)OC32c3cc(Cl)c(OC(C)=O)cc3Oc3cc(OC(C)=O)c(Cl)cc32)ccc1N(CC(=O)OCOC(C)=O)CC(=O)OCOC(C)=O,506,534,0.92,NaN,NaN,NaN,NaN,NaN,NaN,1290.97082,http://www.iss.com/resources/research/technical_notes/K2CH_FLT.html
+173,COc1cc(N(CC(=O)[O-])CC(=O)[O-])c2nc(COc3cc(C)ccc3N(CC(=O)[O-])CC(=O)[O-])ccc2c1,356,500,1.35,NaN,NaN,NaN,NaN,NaN,NaN,537.47962,http://www.iss.com/resources/research/technical_notes/K2CH_FLT.html
+174,COc1cc(N(CC(=O)[O-])CC(=O)[O-])c2ncccc2c1,353,487,0.84,NaN,NaN,NaN,NaN,NaN,NaN,288.25828,http://www.iss.com/resources/research/technical_notes/K2CH_FLT.html
+175,O=C([O-])COc1cc(NC(=O)c2ccc(-c3c4cc(Cl)c(=O)cc-4oc4cc(O)c(Cl)cc34)c(C(=O)[O-])c2)ccc1N(CC(=O)[O-])CC(=O)[O-],506,532,1.21,NaN,NaN,NaN,NaN,NaN,NaN,721.41292,http://www.iss.com/resources/research/technical_notes/K2CH_FLT.html
+176,COc1cc2cc(-c3ccc(C(=O)OCOC(C)=O)cc3C(=O)OCOC(C)=O)oc2cc1N1CCOCCOCCN(c2cc3oc(-c4ccc(C(=O)OCOC(C)=O)cc4C(=O)OCOC(C)=O)cc3cc2OC)CCOCCOCC1,350,546,0.52,NaN,NaN,NaN,NaN,NaN,NaN,1171.12028,http://www.iss.com/resources/research/technical_notes/K2CH_FLT.html
+177,COc1cc(N2CCOCCOCCN(c3cc(OC)c(NC(=O)c4ccc(-c5c6cc(Cl)c(=O)cc-6oc6cc([O-])c(Cl)cc56)c(C(=O)[O-])c4)cc3OC)CCOCC2)c(OC)cc1NC(=O)c1ccc(-c2c3cc(Cl)c(=O)cc-3oc3cc([O-])c(Cl)cc23)c(C(=O)[O-])c1,507,532,1.13,NaN,NaN,NaN,NaN,NaN,NaN,1370.98188,http://www.iss.com/resources/research/technical_notes/K2CH_FLT.html
+178,CCN1CCCc2cc3c(cc21)Oc1cc2c(cc1=N3)C(CS(=O)(=O)[O-])CC(C)(C)[N+]=2CCCC(=O)[O-],655,690,3.6,NaN,NaN,NaN,NaN,NaN,NaN,526.63208,http://www.iss.com/resources/research/technical_notes/K2CH_FLT.html
+179,CN(C)c1ccc2cc3ccc(N(C)C)cc3nc2c1,500,530,2,NaN,NaN,NaN,NaN,NaN,NaN,265.35886,http://www.iss.com/resources/research/technical_notes/K2CH_FLT.html
+180,Nc1ccc2c(-c3ccc(C(=O)CN4C(=O)CCC4=O)cc3C(=O)[O-])c3ccc(=[NH2+])c(S(=O)(=O)[O-])c-3oc2c1S(=O)(=O)[O-],494,519,4.1,NaN,NaN,NaN,NaN,NaN,NaN,627.56198,http://www.iss.com/resources/research/technical_notes/K2CH_FLT.html
+181,CC1(CCCCC(=O)NCCCCCCO)C(/C=C/C=C/C=C2/N(CCCS(=O)(=O)[O-])c3ccc(S(=O)(=O)[O-])cc3C2(C)C)=[N+](CCCS(=O)(=O)[O-])c2ccc(S(=O)(=O)[O-])cc21,651,672,1,NaN,NaN,NaN,NaN,NaN,NaN,941.15076,http://www.iss.com/resources/research/technical_notes/K2CH_FLT.html
+184,CC1(C)C2=C3C=C4C5=[N+](CCC4OC3CCN2c2ccc(CC(=O)NCCCCCCO)cc21)c1ccc(S(=O)(=O)[O-])cc1C5(C)C,558,572,2.8,NaN,NaN,NaN,NaN,NaN,NaN,659.8453,http://www.iss.com/resources/research/technical_notes/K2CH_FLT.html
+186,O=C([O-])c1cc(N2C(=O)C=CC2=O)ccc1-c1c2cc(F)c(=O)cc-2oc2cc([O-])c(F)cc12,493,520,4.1,NaN,NaN,NaN,NaN,NaN,NaN,461.33146,http://www.iss.com/resources/research/technical_notes/K2CH_FLT.html
+187,CC1(C)C(/C=C/C=C/C=C/C=C2\N(CCCCS(=O)(=O)[O-])c3ccc4ccccc4c3C2(C)C)=[N+](CCCCS(=O)(=O)[O-])c2ccc3ccccc3c21,780,820,0.52,NaN,NaN,NaN,NaN,NaN,NaN,751.98618,http://www.iss.com/resources/research/technical_notes/K2CH_FLT.html
+188,NC(=O)C1=CN([C@H]2C[C@H](O)[C@@H](COP(=O)([O-])OP(=O)([O-])OC[C@H]3O[C@@H](n4cnc5c(N)ncnc54)C[C@@H]3O)O2)C=CC1,350,450,0.4,NaN,NaN,NaN,NaN,NaN,NaN,631.43038,http://www.iss.com/resources/reference/data_tables/FL_LifetimeStandards.html
+189,CCOC(=O)c1c(CSc2ccccc2)n(C)c2cc(Br)c(O)c(CN(C)C)c12,275,350,3,NaN,NaN,NaN,NaN,NaN,NaN,477.4215,http://www.iss.com/resources/reference/data_tables/FL_LifetimeStandards.html
+191,c1ccc2[nH]ccc2c1,290,360,4.49,NaN,NaN,NaN,NaN,NaN,NaN,117.15058,http://www.iss.com/resources/reference/data_tables/FL_LifetimeStandards.html
+192,Nc1ncc2nc[nH]c2n1,290,380,11.34,NaN,NaN,NaN,NaN,NaN,NaN,135.1297,http://www.iss.com/resources/reference/data_tables/FL_LifetimeStandards.html
+193,N[C@@H](Cc1ccc(O)cc1)C(=O)O,285,300,3.27,NaN,NaN,NaN,NaN,NaN,NaN,181.19034,http://www.iss.com/resources/reference/data_tables/FL_LifetimeStandards.html
+194,Nc1ccccc1C(=O)O,290,400,8.6,NaN,NaN,NaN,NaN,NaN,NaN,137.13758,http://www.iss.com/resources/reference/data_tables/FL_LifetimeStandards.html
+202,O=C1OC2(c3ccccc31)c1cc(I)c(O)c(I)c1Oc1c2cc(I)c(O)c1I,NaN,NaN,0.089,NaN,NaN,NaN,NaN,NaN,NaN,835.87852,10.1021/ac062160k
+207,O=S(=O)([O-])CCC[n+]1c2ccccc2cc2ccccc21,NaN,NaN,31.2,NaN,NaN,NaN,NaN,NaN,NaN,301.3651,10.1021/ac062160k
+210,O=S(=O)([O-])c1cc(O)c2ccc3c(S(=O)(=O)[O-])cc(S(=O)(=O)[O-])c4ccc1c2c34,454,511,5.4,NaN,NaN,NaN,NaN,NaN,NaN,455.41958,http://www.iss.com/resources/reference/data_tables/LifetimeDataFluorophores.html
+211,NNC(=O)N1C(=O)c2cc(S(=O)(=O)[O-])cc3c(N)c(S(=O)(=O)[O-])cc(c23)C1=O,458,535,5.7,NaN,NaN,NaN,NaN,NaN,NaN,428.35752,http://www.iss.com/resources/reference/data_tables/LifetimeDataFluorophores.html
+212,O=S(=O)([O-])c1cc(S(=O)(=O)Cl)ccc1C1=c2cc3c4c(c2Oc2c1cc1c5c2CCCN5CCC1)CCC[N+]=4CCC3,589,615,4.2,NaN,NaN,NaN,NaN,NaN,NaN,625.16426,http://www.iss.com/resources/reference/data_tables/LifetimeDataFluorophores.html
+213,c1ccc2[nH]ccc2c1,270,345,NaN,NaN,3.77815125,NaN,NaN,NaN,NaN,117.15058,http://dx.doi.org/10.1016/j.cplett.2017.07.038
+214,N#Cc1cc2ccccc2[nH]1,NaN,350,NaN,NaN,NaN,NaN,NaN,NaN,NaN,142.16064,http://dx.doi.org/10.1016/j.cplett.2017.07.038
+215,N#Cc1c[nH]c2ccccc12,NaN,320,NaN,NaN,NaN,NaN,NaN,NaN,NaN,142.16064,http://dx.doi.org/10.1016/j.cplett.2017.07.038
+216,N#Cc1cccc2[nH]ccc12,305,405,9.1,NaN,3.903089987,NaN,NaN,NaN,NaN,142.16064,http://dx.doi.org/10.1016/j.cplett.2017.07.038
+217,N#Cc1ccc2[nH]ccc2c1,275,390,0.3,NaN,3.740362689,NaN,NaN,NaN,NaN,142.16064,http://dx.doi.org/10.1016/j.cplett.2017.07.038
+218,N#Cc1ccc2cc[nH]c2c1,285,375,0.6,NaN,4.017033339,NaN,NaN,NaN,NaN,142.16064,http://dx.doi.org/10.1016/j.cplett.2017.07.038
+219,N#Cc1cccc2cc[nH]c12,308,400,2,NaN,3.903089987,NaN,NaN,NaN,NaN,142.16064,http://dx.doi.org/10.1016/j.cplett.2017.07.038
+669,CCCCCCCCCCCCOc1cc2cc(N(C)C)ccc2cc1C#N,368,457,NaN,NaN,NaN,NaN,NaN,NaN,NaN,380.57384,https://doi.org/10.1016/j.dyepig.2018.10.016
+677,CCCCCCCCCCCCOc1cc2cc(N(C)C)ccc2cc1C=O,390,504,NaN,NaN,NaN,NaN,NaN,NaN,NaN,383.57378,https://doi.org/10.1016/j.dyepig.2018.10.016
+685,CCCCCCCCCCCCOc1cc2cc(N(C)C)ccc2cc1C=C(C#N)C#N,476,674,NaN,NaN,NaN,NaN,NaN,NaN,NaN,431.62178,https://doi.org/10.1016/j.dyepig.2018.10.016
+1417,Cn1c(=O)c(/N=N/c2ccc(Nc3ccc([N+](=O)[O-])cc3S(=O)(=O)O)cc2)c(O)c2ccccc21,476,636,NaN,NaN,1.720324717,5285,2967.9,NaN,NaN,495.47098,https://doi.org/10.1016/j.dyepig.2019.04.028
+1418,Cn1c(=O)c(/N=N/c2ccc(Nc3ccccc3)c(S(=O)(=O)O)c2)c(O)c2ccccc21,385,540,NaN,NaN,1.595826777,6798,1891,NaN,NaN,450.47392,https://doi.org/10.1016/j.dyepig.2019.04.028
+1419,Cn1c(=O)c(/N=N/c2ccc(/N=N/c3ccc(S(=O)(=O)O)cc3)cc2)c(O)c2ccccc21,447,551,NaN,NaN,1.637189422,4223,3118.9,NaN,NaN,463.47298,https://doi.org/10.1016/j.dyepig.2019.04.028
+1420,COc1ccc(/N=N/c2c(O)c3ccccc3n(C)c2=O)c(S(=O)(=O)O)c1,447,583,NaN,NaN,1.624694531,5219,2394.7,NaN,NaN,389.3871,https://doi.org/10.1016/j.dyepig.2019.04.028
+1421,Cn1c(=O)c(/N=N/c2cc(S(=O)(=O)O)ccc2S(=O)(=O)O)c(O)c2ccccc21,413,500,NaN,NaN,1.769155691,4213,4329.6,NaN,NaN,439.42422,https://doi.org/10.1016/j.dyepig.2019.04.028
+1422,CC(=O)Nc1ccc(S(=O)(=O)O)c(/N=N/c2c(O)c3ccccc3n(C)c2=O)c1,417,549,NaN,NaN,1.635785236,5765,3141.8,NaN,NaN,416.41304,https://doi.org/10.1016/j.dyepig.2019.04.028
+1423,Cn1c(=O)c(/N=N/c2cc(S(=O)(=O)O)ccc2C(=O)O)c(O)c2ccccc21,421,553,NaN,NaN,1.786893325,5670,2996,NaN,NaN,403.37022,https://doi.org/10.1016/j.dyepig.2019.04.028
+1424,Cn1c(=O)c(/N=N/c2ccc(S(=O)(=O)O)c3ccccc23)c(O)c2ccccc21,456,582,NaN,NaN,1.503926804,4748,2913.9,NaN,NaN,409.4211,https://doi.org/10.1016/j.dyepig.2019.04.028
+1661,Cc1nc(-c2ccccc2)c2ccccn12,338,470,NaN,NaN,NaN,NaN,NaN,NaN,NaN,208.26328,http://dx.doi.org/10.1016/j.dyepig.2016.09.056
+1662,c1ccc(-c2nc(-c3ccccc3)n3ccccc23)cc1,305,479,NaN,NaN,NaN,NaN,NaN,NaN,NaN,270.33416,http://dx.doi.org/10.1016/j.dyepig.2016.09.056
+1663,Oc1ccccc1-c1nc(-c2ccccc2)c2ccccn12,299,481,NaN,NaN,NaN,NaN,NaN,NaN,NaN,286.33316,http://dx.doi.org/10.1016/j.dyepig.2016.09.056
+1664,COc1ccccc1-c1nc(-c2ccccc2)c2ccccn12,330,481,NaN,NaN,NaN,NaN,NaN,NaN,NaN,300.36004,http://dx.doi.org/10.1016/j.dyepig.2016.09.056
+1665,N#Cc1ccc(-c2nc(-c3ccccc3)c3ccccn23)cc1,430,470,NaN,NaN,NaN,NaN,NaN,NaN,NaN,295.34422,http://dx.doi.org/10.1016/j.dyepig.2016.09.056
+1666,CN(C)c1ccc(-c2nc(-c3ccccc3)c3ccccn23)cc1,341,512,NaN,NaN,NaN,NaN,NaN,NaN,NaN,313.40286,http://dx.doi.org/10.1016/j.dyepig.2016.09.056
+1667,c1ccc(-c2nc(-c3c[nH]c4ccccc34)n3ccccc23)cc1,390,507,NaN,NaN,NaN,NaN,NaN,NaN,NaN,309.3711,http://dx.doi.org/10.1016/j.dyepig.2016.09.056
+1668,c1ccc(-c2nc(-c3ccc(N(c4ccccc4)c4ccccc4)cc3)n3ccccc23)cc1,360,498,NaN,NaN,NaN,NaN,NaN,NaN,NaN,437.54462,http://dx.doi.org/10.1016/j.dyepig.2016.09.056
+1669,c1ccc(-c2nc(-c3cccc4ccccc34)n3ccccc23)cc1,367,475,NaN,NaN,NaN,NaN,NaN,NaN,NaN,320.39404,http://dx.doi.org/10.1016/j.dyepig.2016.09.056
+1670,Oc1ccc2ccccc2c1-c1nc(-c2ccccc2)c2ccccn12,355,440,NaN,NaN,NaN,NaN,NaN,NaN,NaN,336.39304,http://dx.doi.org/10.1016/j.dyepig.2016.09.056
+1671,c1ccc(-c2nc(-c3c4ccccc4cc4ccccc34)n3ccccc23)cc1,375,530,NaN,NaN,NaN,NaN,NaN,NaN,NaN,370.45392,http://dx.doi.org/10.1016/j.dyepig.2016.09.056
+1846,CC1(C)C(/C=C/C=C/C=C/C=C2/N(CCC(=O)O)c3ccc4ccccc4c3C2(C)C)=[N+](CCC(=O)O)c2ccc3ccccc3c21,NaN,NaN,0.2,NaN,NaN,NaN,NaN,NaN,NaN,625.78654,doi:10.1016/j.jphotochem.2008.09.008
+1852,CC1(C)C(/C=C/C=C/C=C/C=C2/N(CCCCS(=O)(=O)[O-])c3ccc4ccccc4c3C2(C)C)=[N+](CCCCS(=O)(=O)[O-])c2ccc3ccccc3c21,NaN,NaN,0.17,NaN,NaN,NaN,NaN,NaN,NaN,751.98618,doi:10.1016/j.jphotochem.2008.09.008
+1858,CC1(C)C(/C=C/C2=C(Cl)/C(=C/C=C3/N(CCCCS(=O)(=O)[O-])c4ccc5ccccc5c4C3(C)C)CCC2)=[N+](CCCCS(=O)(=O)[O-])c2ccc3ccccc3c21,NaN,NaN,0.13,NaN,NaN,NaN,NaN,NaN,NaN,826.496,doi:10.1016/j.jphotochem.2008.09.008
+1864,CC1(C)C(/C=C/C2=C(c3ccc(C(=O)O)cc3)/C(=C/C=C3/N(CCCCS(=O)(=O)[O-])c4ccc5ccccc5c4C3(C)C)CCC2)=[N+](CCCCS(=O)(=O)[O-])c2ccc3ccccc3c21,NaN,NaN,0.2,NaN,NaN,NaN,NaN,NaN,NaN,912.1577,doi:10.1016/j.jphotochem.2008.09.008
+1870,CC1(C)C(/C=C/C2=C(c3ccc(C(=O)O)cc3)/C(=C/C=C3/N(CCCCS(=O)(=O)[O-])c4ccccc4C3(C)C)CCC2)=[N+](CCCCS(=O)(=O)[O-])c2ccccc21,NaN,NaN,0.44,NaN,NaN,NaN,NaN,NaN,NaN,812.03794,doi:10.1016/j.jphotochem.2008.09.008
+1876,CS1(C)C(/C=C/C2=C(c3ccc(C(=O)O)cc3)/C(=C/C=C3/N(CCCCS(=O)(=O)[O-])c4ccccc4S3(C)C)CCC2)=[N+](CCCCS(=O)(=O)[O-])c2ccccc21,NaN,NaN,0.33,NaN,NaN,NaN,NaN,NaN,NaN,852.14794,doi:10.1016/j.jphotochem.2008.09.008
+1882,O=C(O)c1ccc(C2=C(/C=C/c3[se]c4ccccc4[n+]3CCCCS(=O)(=O)[O-])CCC/C2=C\C=C2/[Se]c3ccccc3N2CCCCS(=O)(=O)[O-])cc1,NaN,NaN,0.36,NaN,NaN,NaN,NaN,NaN,NaN,885.79666,doi:10.1016/j.jphotochem.2008.09.008
+1888,CC1(C)C(/C=C/C2=C(c3ccc(C(=O)O)cc3)/C(=C/C=C3/N(CCCCS(=O)(=O)[O-])c4ccc(S(=O)(=O)[O-])cc4C3(C)C)CCC2)=[N+](CCCCS(=O)(=O)[O-])c2ccc(S(=O)(=O)[O-])cc21,NaN,NaN,0.44,NaN,NaN,NaN,NaN,NaN,NaN,970.14806,doi:10.1016/j.jphotochem.2008.09.008
+1892,CC1(C)C(/C=C/C2=C(c3ccc(C(=O)O)cc3)/C(=C/C=C3/N(CCCCS(=O)(=O)[O-])c4ccccc4C3(C)C)CC2)=[N+](CCCCS(=O)(=O)[O-])c2ccccc21,NaN,NaN,0.36,NaN,NaN,NaN,NaN,NaN,NaN,798.01106,doi:10.1016/j.jphotochem.2008.09.008
+1965,Oc1ccc2ccccc2c1,328,351,7.246376812,NaN,NaN,NaN,NaN,NaN,NaN,144.17252,DOI: 10.1021/acs.jpcb.9b01295
+1966,[O-]c1ccc2ccccc2c1,346,414,9.433962264,NaN,NaN,NaN,NaN,NaN,NaN,143.16458,DOI: 10.1021/acs.jpcb.9b01295
+1967,[NH3+]c1ccc2ccc(O)cc2c1,328,357,6.666666667,NaN,NaN,NaN,NaN,NaN,NaN,160.1954,DOI: 10.1021/acs.jpcb.9b01295
+1968,[NH3+]c1ccc2ccc([O-])cc2c1,NaN,425,13.51351351,NaN,NaN,NaN,NaN,NaN,NaN,159.18746,DOI: 10.1021/acs.jpcb.9b01295
+1969,Nc1ccc2ccc(O)cc2c1,332,398,7.692307692,NaN,NaN,NaN,NaN,NaN,NaN,159.18746,DOI: 10.1021/acs.jpcb.9b01295
+1970,Nc1ccc2ccc([O-])cc2c1,342,407,2.272727273,NaN,NaN,NaN,NaN,NaN,NaN,158.17952,DOI: 10.1021/acs.jpcb.9b01295
+1971,COc1ccc2ccc(O)cc2c1,325,343,8.333333333,NaN,NaN,NaN,NaN,NaN,NaN,174.1984,DOI: 10.1021/acs.jpcb.9b01295
+1972,COc1ccc2ccc([O-])cc2c1,337,413,4,NaN,NaN,NaN,NaN,NaN,NaN,173.19046,DOI: 10.1021/acs.jpcb.9b01295
+2122,CN(C)c1ccc2cc3c(cc2c1)OCCN=C3,451,559,NaN,NaN,NaN,NaN,NaN,NaN,86.7,240.30504,DOI: 10.1021/acs.orglett.9b00784
+2131,CCC/N=C/c1cc2ccc(N(C)C)cc2cc1OC,438,556,NaN,NaN,NaN,NaN,NaN,NaN,96.8,270.37468,DOI: 10.1021/acs.orglett.9b00784
+2132,O=S(=O)([O-])c1ccc2c(O)cc(S(=O)(=O)[O-])cc2c1,295,385,NaN,NaN,NaN,NaN,NaN,NaN,NaN,302.28264,dx.doi.org/10.1021/jp308746x
+2133,O=S(=O)([O-])c1ccc2c([O-])cc(S(=O)(=O)[O-])cc2c1,350,485,NaN,NaN,NaN,NaN,NaN,NaN,NaN,301.2747,dx.doi.org/10.1021/jp308746x
+2134,CC(C)(C)c1cccc2c(O)cccc12,296,367,NaN,NaN,NaN,NaN,NaN,NaN,NaN,200.28004,dx.doi.org/10.1021/jp308746x
+2135,CC(C)(C)c1cccc2c([O-])cccc12,333,443,NaN,NaN,NaN,NaN,NaN,NaN,NaN,199.2721,dx.doi.org/10.1021/jp308746x
+2136,O=S(=O)([O-])c1cccc2c(O)cccc12,304,426,NaN,NaN,NaN,NaN,NaN,NaN,NaN,223.22758,dx.doi.org/10.1021/jp308746x
+2137,O=S(=O)([O-])c1cccc2c([O-])cccc12,346,534,NaN,NaN,NaN,NaN,NaN,NaN,NaN,222.21964,dx.doi.org/10.1021/jp308746x
+2830,COc1cc(S(=O)(=O)[O-])c2ccc3c(S(=O)(=O)[O-])cc(S(=O)(=O)[O-])c4ccc1c2c43,403.2745897,435.9958144,NaN,NaN,NaN,NaN,NaN,NaN,NaN,469.44646,DOI: 10.1039/b816695a
+2839,O=S(=O)([O-])c1cc([O-])c2ccc3c(S(=O)(=O)[O-])cc(S(=O)(=O)[O-])c4ccc1c2c34,460.9994468,511.0123154,NaN,NaN,NaN,NaN,NaN,NaN,NaN,454.41164,DOI: 10.1039/b816695a
+3182,CC1=CC(C)=[N+]2C1=C(c1ccc(O)cc1)c1c(C)cc(/C=C/C=C3/N(C)c4ccccc4C3(C)C)n1[B-]2(F)F,650,708,NaN,NaN,NaN,NaN,NaN,NaN,NaN,523.43308,DOI: 10.1039/c4cs00030g
+3226,COc1ccc2c(c1)CCC1=C(c3ccccc3)C3=C(c4ccc5cccc(O)c5n4)c4c(-c5ccccc5)c5c(n4[B-](F)(F)[N+]3=C12)-c1ccc(OC)cc1CC5,660,680,NaN,NaN,NaN,NaN,NaN,NaN,NaN,751.63884,DOI: 10.1039/c4cs00030g
+3471,Nc1cc[nH]c(=S)n1,269,NaN,NaN,NaN,4.254064453,NaN,NaN,NaN,NaN,127.1707,DOI: 10.1021/acs.jpcb.7b02715
+3662,O=C(O)CCCCCn1c2ccccc2c(=O)c2ccccc21,410,426,14.2,NaN,NaN,NaN,NaN,NaN,49.5,309.36386,10.1023/B%3AJOFL.0000016287.56322.eb
+3663,O=C(O)Cn1c2ccccc2c(=O)c2ccccc21,409,427,14.2,NaN,NaN,NaN,NaN,NaN,NaN,253.25634,10.1023/B%3AJOFL.0000016287.56322.eb
+3664,O=C(O)CCCCCn1c2ccccc2c(=O)c2cc(Br)ccc21,439,432,8.6,NaN,NaN,NaN,NaN,NaN,49.1,388.25992,10.1023/B%3AJOFL.0000016287.56322.eb
+3665,O=C(O)CCCCCn1c2ccc(Br)cc2c(=O)c2cc(Br)ccc21,425,439,6,NaN,NaN,NaN,NaN,NaN,NaN,467.15598,10.1023/B%3AJOFL.0000016287.56322.eb
+3667,O=C(O)CCCCCn1c2ccccc2c(=O)c2cc(S(=O)(=O)O)ccc21,409,428,13,NaN,NaN,NaN,NaN,NaN,NaN,389.42686,10.1023/B%3AJOFL.0000016287.56322.eb
+3668,O=C(O)CCCCCn1c2ccc(Br)cc2c(=O)c2cc(S(=O)(=O)O)ccc21,416,435,7.1,NaN,NaN,NaN,NaN,NaN,NaN,468.32292,10.1023/B%3AJOFL.0000016287.56322.eb
+3669,O=c1c2cc(Cl)ccc2[nH]c2ccc(COO)cc12,415,425,16.8,NaN,NaN,NaN,NaN,NaN,NaN,275.6904,10.1023/B%3AJOFL.0000016287.56322.eb
+3670,O=C(O)c1cccc2c(=O)c3ccccc3[nH]c12,413,428,3.1,NaN,NaN,NaN,NaN,NaN,NaN,239.22946,10.1023/B%3AJOFL.0000016287.56322.eb
+3671,O=C(O)CCCCCNC(=O)c1cccc2c(=O)c3ccccc3[nH]c12,409,438,4.2,NaN,NaN,NaN,NaN,NaN,52.8,352.3888,10.1023/B%3AJOFL.0000016287.56322.eb
+3672,CCOC(=O)CCCCCn1c2ccccc2c(=O)c2cc([N+](=O)[O-])ccc21,413,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,382.41468,10.1023/B%3AJOFL.0000016287.56322.eb
+3673,CCOC(=O)CCCCCn1c2ccccc2c(=O)c2cc(N)ccc21,405,543,10.9,NaN,NaN,NaN,NaN,NaN,NaN,352.43256,10.1023/B%3AJOFL.0000016287.56322.eb
+3674,CC(=O)Nc1ccc2c(c1)c(=O)c1ccccc1n2CCCCCC(=O)O,398,450,17.1,NaN,NaN,NaN,NaN,NaN,59.9,366.41568,10.1023/B%3AJOFL.0000016287.56322.eb
+3676,CCOC(=O)CCCCCn1c2ccc(N)cc2c(=O)c2cc(N)ccc21,455,547,11.5,NaN,NaN,NaN,NaN,NaN,NaN,367.4475,10.1023/B%3AJOFL.0000016287.56322.eb
+3677,CC(=O)Nc1ccc2c(c1)c(=O)c1cc(NC(C)=O)ccc1n2CCCCCC(=O)O,430,463,19.6,NaN,NaN,NaN,NaN,NaN,NaN,423.4675,10.1023/B%3AJOFL.0000016287.56322.eb
+3678,O=C(O)CCCCCn1c2ccccc2c(=O)c2cc(F)ccc21,420,432,14.6,NaN,NaN,NaN,NaN,NaN,NaN,327.35392,10.1023/B%3AJOFL.0000016287.56322.eb
+3679,COc1ccc2c(c1)c(=O)c1ccccc1n2CCCCCC(=O)O,422,462,17,NaN,NaN,NaN,NaN,NaN,NaN,339.38974,10.1023/B%3AJOFL.0000016287.56322.eb
+3680,Cc1ccc2c(c1)c(=O)c1ccccc1n2CCCCCC(=O)O,419,434,15.1,NaN,NaN,NaN,NaN,NaN,NaN,323.39074,10.1023/B%3AJOFL.0000016287.56322.eb
+3681,O=c1c2cc3[nH]c4c(S(=O)(=O)O)cc(S(=O)(=O)O)cc4c(=O)c3cc2[nH]c2c(S(=O)(=O)O)cc(S(=O)(=O)O)cc12,517,550,22.8,NaN,NaN,NaN,NaN,NaN,NaN,632.57928,10.1023/B%3AJOFL.0000016287.56322.eb
+3692,CCn1c2ccc(S(=O)(=O)O)cc2c(=O)c2cc3c(cc21)c(=O)c1cc(S(=O)(=O)O)ccc1n3CCCCCC(=O)O,536,559,21.7,NaN,NaN,NaN,NaN,NaN,NaN,614.65044,10.1023/B%3AJOFL.0000016287.56322.eb
+4385,Nc1ccc(-c2ccc(N)cc2)cc1,281,401,NaN,NaN,NaN,NaN,NaN,NaN,NaN,184.24128,http://dx.doi.org/10.1016/j.jphotochem.2015.12.006
+4890,[NH3+]c1ccc2c(c1)Cc1ccccc1-2,299,314,NaN,NaN,3.93,NaN,NaN,NaN,NaN,182.24528,https://doi.org/10.1016/S0022-2860(98)00375-5
+4972,CCOC(=O)/C=C/c1ccc(N(C)C)cc1,373,485,NaN,NaN,NaN,NaN,NaN,87.4,65.2,219.28298,doi:10.1016/j.saa.2009.03.004
+5287,O=C1CCCc2c1[nH]c1cc3c(cc21)OCO3,341.0864814,463.6042403,2.289,NaN,NaN,5180.8,3777.4,NaN,NaN,229.23434,http://dx.doi.org/10.1016/j.jlumin.2014.03.046
+5884,CNc1ccc(/C=C/C#N)cc1,343,445,1.1263,NaN,NaN,NaN,NaN,93.7,71.8,158.2034,doi:10.1016/j.chemphys.2005.12.032
+5944,CN(C)c1ccc(/C=C/c2cc[n+](C)cc2)cc1,448.0005734,597.0006686,NaN,NaN,NaN,NaN,NaN,NaN,NaN,239.34086,10.1021/jp020877f
+5955,CN(C)c1ccc(/C=C/c2cc[n+](CCC[n+]3ccc(/C=C/c4ccc(N(C)C)cc4)cc3)cc2)cc1,466.0005965,597.0006686,NaN,NaN,NaN,NaN,NaN,NaN,NaN,490.69272,10.1021/jp020877f
+5966,CN(C)c1ccc(/C=C/c2cc[n+](CCCCC[n+]3ccc(/C=C/c4ccc(N(C)C)cc4)cc3)cc2)cc1,457.0007952,597.0006686,NaN,NaN,NaN,NaN,NaN,NaN,NaN,518.74648,10.1021/jp020877f
+5977,CN(C)c1ccc(/C=C/c2cc[n+](CCCCCCCCCCCC[n+]3ccc(/C=C/c4ccc(N(C)C)cc4)cc3)cc2)cc1,462.000462,597.0006686,NaN,NaN,NaN,NaN,NaN,NaN,NaN,616.93464,10.1021/jp020877f
+6065,Cc1c2oc3c(C)c(N)cc(C(=O)NC4OC(=O)C(C(C)C)N(C)C(=O)CN(C)C(=O)C5CCCN5C(=O)C(C(C)C)NC4=O)c3nc-2c(C(=O)NC2OC(=O)C(C(C)C)N(C)C(=O)CN(C)C(=O)C3CCCN3C(=O)C(C(C)C)NC2=O)c(N)c1=O,514.1731838,674.1724533,0.75,NaN,NaN,4782,2167.5,NaN,NaN,1214.34026,10.1021/jp011168p
+7358,CC1(C)Nc2ccccc2-c2[nH]c3ccccc3c(=O)c21,382,552,5.24,NaN,NaN,NaN,NaN,NaN,83.2,276.33804,DOI: 10.1021/acs.orglett.5b02680
+7372,CC1(C)Nc2cc(Cl)ccc2-c2[nH]c3ccccc3c(=O)c21,404,536,8.68,NaN,NaN,NaN,NaN,NaN,75,310.7831,DOI: 10.1021/acs.orglett.5b02680
+7386,COc1ccc2c(=O)c3c([nH]c2c1)-c1ccccc1NC3(C)C,383,547,7.42,NaN,NaN,NaN,NaN,NaN,89.6,306.36392,DOI: 10.1021/acs.orglett.5b02680
+7400,COc1ccc2c(=O)c3c([nH]c2c1)-c1cc(Cl)ccc1NC3(C)C,405,555,6.93,NaN,NaN,NaN,NaN,NaN,95.3,340.80898,DOI: 10.1021/acs.orglett.5b02680
+7897,Nc1ccc2c(c1)C(=O)NC2=O,370,540,NaN,NaN,NaN,NaN,NaN,NaN,NaN,162.14764,DOI: 10.1021/jp9526509
+7906,CN(C)c1ccc2c(c1)C(=O)NC2=O,408,562,NaN,NaN,NaN,NaN,NaN,NaN,NaN,190.2014,DOI: 10.1021/jp9526509
+8242,C[n+]1ccc(/C=C/c2ccc3cc([O-])ccc3c2)cc1,448,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,261.3231,http://dx.doi.org/10.1021/jp3106869
+8294,Cc1ccc2oc(-c3cc4cc(C)ccc4oc3=O)cc2c1,351,498,NaN,NaN,3.929418926,NaN,NaN,NaN,NaN,290.31716,DOI: 10.1021/acs.orglett.7b00069
+8299,COc1ccc2oc(-c3cc4cc(OC)ccc4oc3=O)cc2c1,347,NaN,NaN,NaN,3.748188027,NaN,NaN,NaN,NaN,322.31516,DOI: 10.1021/acs.orglett.7b00069
+8304,Cc1cccc2cc(-c3cc4cccc(C)c4oc3=O)oc12,367,488,NaN,NaN,4.376576957,NaN,NaN,NaN,NaN,290.31716,DOI: 10.1021/acs.orglett.7b00069
+8309,COc1cccc2cc(-c3cc4cccc(OC)c4oc3=O)oc12,363,504,NaN,NaN,4.290034611,NaN,NaN,NaN,NaN,322.31516,DOI: 10.1021/acs.orglett.7b00069
+8314,COc1cccc2oc(-c3cc4c(OC)cccc4oc3=O)cc12,384,521,NaN,NaN,4.167317335,NaN,NaN,NaN,NaN,322.31516,DOI: 10.1021/acs.orglett.7b00069
+8319,COc1ccc2cc(-c3cc4ccc(OC)cc4oc3=O)oc2c1,361,NaN,NaN,NaN,3.973127854,NaN,NaN,NaN,NaN,322.31516,DOI: 10.1021/acs.orglett.7b00069
+8324,O=c1oc2ccc(Br)cc2cc1-c1cc2cc(Br)ccc2o1,331,507,NaN,NaN,3.875061263,NaN,NaN,NaN,NaN,420.05552,DOI: 10.1021/acs.orglett.7b00069
+8329,O=c1oc2ccc(Cl)cc2cc1-c1cc2cc(Cl)ccc2o1,327,473,NaN,NaN,3.799340549,NaN,NaN,NaN,NaN,331.15352,DOI: 10.1021/acs.orglett.7b00069
+8334,COc1cc(Br)cc2cc(-c3cc4cc(Br)cc(OC)c4oc3=O)oc12,359,497,NaN,NaN,4.194514342,NaN,NaN,NaN,NaN,480.10728,DOI: 10.1021/acs.orglett.7b00069
+8339,COc1cc2cc(-c3cc4cc(OC)c(OC)cc4oc3=O)oc2cc1OC,358,435,NaN,NaN,3.822821645,NaN,NaN,NaN,NaN,382.36692,DOI: 10.1021/acs.orglett.7b00069
+8603,O=c1c2ccccc2[nH]c2ccccc12,385,416,NaN,NaN,NaN,NaN,NaN,NaN,NaN,195.22046,https://doi.org/10.1016/j.dyepig.2019.03.028
+8605,Cn1c2ccccc2c(=O)c2ccccc21,394,430,NaN,NaN,NaN,NaN,NaN,NaN,NaN,209.24734,https://doi.org/10.1016/j.dyepig.2019.03.028
+8607,CCCCCn1c2ccccc2c(=O)c2ccccc21,394,428,NaN,NaN,NaN,NaN,NaN,NaN,NaN,265.35486,https://doi.org/10.1016/j.dyepig.2019.03.028
+8691,COc1ccc2c3c([nH]c2c1)C(C)=NCC3,372,480,4.65,NaN,NaN,NaN,NaN,100.4,82.2,214.26716,https://doi.org/10.1016/j.molliq.2018.11.033
+9225,CC[N+]1=C(/C=C/c2ccc3ccc4cccc5ccc2c3c45)C(C)(C)c2ccccc21,504,616,NaN,NaN,4.164352856,NaN,NaN,NaN,NaN,400.54344,https://doi.org/10.1016/j.snb.2018.08.075
+9231,CC[N+]1=C(/C=C/c2cc3ccc4cccc5ccc(c2)c3c45)C(C)(C)c2ccccc21,408,466,NaN,NaN,4.445604203,NaN,NaN,NaN,NaN,400.54344,https://doi.org/10.1016/j.snb.2018.08.075
+9242,CC[N+]1=C(/C=C/c2cc3cccc4ccc5cccc2c5c43)C(C)(C)c2ccccc21,476,670,NaN,NaN,4.004321374,NaN,NaN,NaN,NaN,400.54344,https://doi.org/10.1016/j.snb.2018.08.075
+9248,CC[N+]1=C(/C=C/c2cc3cc(C(C)(C)C)cc4ccc5cc(C(C)(C)C)cc2c5c43)C(C)(C)c2ccccc21,541,NaN,NaN,NaN,4.064457989,NaN,NaN,NaN,NaN,512.75848,https://doi.org/10.1016/j.snb.2018.08.075
+9357,CC[N+](CC)=c1ccc2c(-c3ccccc3C(=O)O)c3c(=O)oc4cc5c(cc4c3oc-2c1)CCCN5C,601,658,0.15,NaN,4.651278014,NaN,NaN,78.7,83.2,509.58026,http://dx.doi.org/10.1021/jo400783x
+9360,CC[N+](CC)=c1ccc2c(-c3ccccc3C(=O)O)c3c(=O)oc4c5c6c(cc4c3oc-2c1)CCCN6CCC5,612,684,0.16,NaN,4.586587305,NaN,NaN,90.1,88.4,535.61814,http://dx.doi.org/10.1021/jo400783x
+9366,CCOC(=O)c1ccccc1-c1c2ccc(=[N+](CC)CC)cc-2oc2c1c(=O)oc1cc3c(cc12)CCCN3C,602,666,0.16,NaN,4.881954971,NaN,NaN,75.2,78.1,537.63402,http://dx.doi.org/10.1021/jo400783x
+9369,CCOC(=O)c1ccccc1-c1c2ccc(=[N+](CC)CC)cc-2oc2c1c(=O)oc1c3c4c(cc12)CCCN4CCC3,616,687,0.13,NaN,4.820857989,NaN,NaN,83,102.3,563.6719,http://dx.doi.org/10.1021/jo400783x
+9512,O=C1OCC2=C1C(c1ccccc1)c1cc3c(cc1N2CCO)CCC3,327,423,NaN,NaN,NaN,NaN,NaN,NaN,94,347.41274,https://doi.org/10.1016/j.jphotochem.2017.08.069
+10898,Cc1cc(O)c(C(C)C)cc1/N=C/c1ccc(O)cc1,342,452,NaN,NaN,NaN,NaN,NaN,NaN,104.5,269.34286,https://doi.org/10.1016/j.jlumin.2018.02.007
+10915,COc1ccc(/C=N/c2cc(C(C)C)c(O)cc2C)cc1,343,440,NaN,NaN,NaN,NaN,NaN,NaN,NaN,283.36974,https://doi.org/10.1016/j.jlumin.2018.02.007
+10932,Cc1ccc(/C=N/c2cc(C(C)C)c(O)cc2C)cc1,346,441,NaN,NaN,NaN,NaN,NaN,NaN,NaN,267.37074,https://doi.org/10.1016/j.jlumin.2018.02.007
+10949,CCc1ccc(/C=N/c2cc(C(C)C)c(O)cc2C)cc1,354,444,NaN,NaN,NaN,NaN,NaN,NaN,NaN,281.39762,https://doi.org/10.1016/j.jlumin.2018.02.007
+10966,Cc1cc(O)c(C(C)C)cc1/N=C/c1ccc(C(F)(F)F)cc1,358,449,NaN,NaN,NaN,NaN,NaN,NaN,NaN,321.34092,https://doi.org/10.1016/j.jlumin.2018.02.007
+10983,Cc1cc(O)c(C(C)C)cc1/N=C/c1ccc([N+](=O)[O-])cc1,395,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,298.34092,https://doi.org/10.1016/j.jlumin.2018.02.007
+11133,O=S(=O)([O-])c1ccc(O)c2ccccc12,319,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,223.22758,https://doi.org/10.1016/j.jphotochem.2018.09.013
+11247,O=C1Nc2ccccc2/C1=C/C(=O)c1ccccc1,336,424,NaN,NaN,NaN,NaN,NaN,NaN,82.7,249.26834,https://doi.org/10.1016/j.molstruc.2011.12.043
+11259,O=C1Nc2ccccc2/C1=C/C(=O)c1ccc(O)cc1,338,424,NaN,NaN,NaN,NaN,NaN,NaN,NaN,265.26734,https://doi.org/10.1016/j.molstruc.2011.12.043
+11271,Cc1ccc(C(=O)/C=C2\C(=O)Nc3ccccc32)cc1,338,412,NaN,NaN,NaN,NaN,NaN,NaN,82.2,263.29522,https://doi.org/10.1016/j.molstruc.2011.12.043
+11283,Cc1ccc(C(=O)/C=C2\C(=O)Nc3ccccc32)cc1C,338,409,NaN,NaN,NaN,NaN,NaN,NaN,NaN,277.3221,https://doi.org/10.1016/j.molstruc.2011.12.043
+11293,COc1ccc(C(=O)/C=C2\C(=O)Nc3ccccc32)cc1,347,407,NaN,NaN,NaN,NaN,NaN,NaN,NaN,279.29422,https://doi.org/10.1016/j.molstruc.2011.12.043
+11305,COc1ccc(C(=O)/C=C2\C(=O)Nc3ccccc32)c(OC)c1,330,411,NaN,NaN,NaN,NaN,NaN,NaN,NaN,309.3201,https://doi.org/10.1016/j.molstruc.2011.12.043
+11317,O=C1Nc2ccccc2/C1=C/C(=O)c1ccc(Cl)cc1,341,410,NaN,NaN,NaN,NaN,NaN,NaN,NaN,283.7134,https://doi.org/10.1016/j.molstruc.2011.12.043
+11329,O=C1Nc2ccccc2/C1=C/C(=O)c1ccc(Cl)cc1Cl,340,427,NaN,NaN,NaN,NaN,NaN,NaN,NaN,318.15846,https://doi.org/10.1016/j.molstruc.2011.12.043
+11341,O=C(/C=C/c1ccc(O)c(O)c1)O[C@H](Cc1ccc(O)c(O)c1)C(=O)O,325,444,NaN,NaN,4.335016361,NaN,NaN,NaN,93.6,360.31704,https://doi.org/10.1016/j.jlumin.2016.02.011
+11399,CC1(C)CC(=O)C2=C(C1)Oc1ccc3ccccc3c1C2c1ccccn1,264,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,355.43574,https://doi.org/10.1016/j.jphotochem.2013.11.014
+11492,COc1ccc2c3c(cccc13)C(=O)N(C)C2=O,375,462,NaN,NaN,3.350248018,NaN,NaN,NaN,NaN,241.24534,https://doi.org/10.1016/j.saa.2005.05.008
+11675,CCN(CC)c1ccc2nc3ccc(=[N+](CC)CC)cc-3oc2c1,654,NaN,NaN,NaN,NaN,NaN,NaN,50.5,NaN,324.44644,https://doi.org/10.1016/j.saa.2009.02.029
+11720,F[B-]1(F)N(c2ccccc2)C=Cc2cccc[n+]21,396,539,NaN,NaN,NaN,NaN,NaN,NaN,NaN,244.05134,https://doi.org/10.1016/j.cplett.2009.07.075
+11901,CNc1ccc(/C=C/C(=O)OC)cc1,347.28,470,NaN,NaN,NaN,NaN,NaN,83.3,NaN,191.22922,https://doi.org/10.1016/j.saa.2011.09.038
+12248,O=C(NCc1cc(=O)oc2cc(O)c(Br)cc12)c1cccnc1,330,NaN,NaN,NaN,3.942702369,NaN,NaN,NaN,NaN,375.17734,DOI: 10.1021/jo2025527
+12249,O=C(NCc1cc(=O)oc2cc([O-])c(Br)cc12)c1cccnc1,370,NaN,NaN,NaN,4.134878045,NaN,NaN,56.4,NaN,374.1694,DOI: 10.1021/jo2025527
+12510,COc1cc(C(=O)O)ccc1O,283.2,340,NaN,NaN,4.72,NaN,NaN,NaN,48.7,168.14752,https://doi.org/10.1016/j.molstruc.2006.01.038
+12728,NS(=O)(=O)c1ccc(N2N=C(c3ccc(O)cc3)CC2c2ccc([N+](=O)[O-])cc2)cc1,354,451,2.938,NaN,5.206825876,NaN,NaN,NaN,78.1,438.46292,https://doi.org/10.1016/j.jphotochem.2017.10.010
+12769,C[n+]1ccc(/C=C/c2ccc(N(c3ccccc3)c3ccc(/C=C/c4cc[n+](C)cn4)cc3)cc2)nc1,525,NaN,NaN,NaN,4.776773802,NaN,NaN,NaN,NaN,483.61726,https://doi.org/10.1016/j.dyepig.2012.04.009
+12772,C[n+]1ccnc(/C=C/c2ccc(N(c3ccccc3)c3ccc(/C=C/c4c[n+](C)ccn4)cc3)cc2)c1,485,NaN,NaN,NaN,4.531223375,NaN,NaN,NaN,NaN,483.61726,https://doi.org/10.1016/j.dyepig.2012.04.009
+12858,NCCc1c[nH]c2ccc(O)cc12,NaN,337,3.94,NaN,NaN,NaN,NaN,NaN,NaN,176.21828,https://doi.org/10.1016/S0006-3495(96)79393-1
+12918,CN1/C(=C/C=C(/C=C/c2sc3ccccc3[n+]2C)c2ccccc2)Sc2ccccc21,641,673,NaN,NaN,4.982271233,NaN,NaN,NaN,NaN,439.62562,https://doi.org/10.1016/j.dyepig.2019.107802
+12922,CN1/C(=C/C=C(/C=C/C2=[N+](C)c3ccccc3C2(C)C)c2ccccc2)C(C)(C)c2ccccc21,634,661,NaN,NaN,5.564666064,NaN,NaN,42.5,57.7,459.6549,https://doi.org/10.1016/j.dyepig.2019.107802
+12926,CN1/C(=C/C=C(/C=C/c2sc3ccccc3[n+]2C)c2ccc(F)cc2)Sc2ccccc21,641,669,NaN,NaN,4.568201724,NaN,NaN,42.5,NaN,457.61568,https://doi.org/10.1016/j.dyepig.2019.107802
+12930,CN1/C(=C/C=C(/C=C/c2sc3ccccc3[n+]2C)c2cc(F)cc(F)c2)Sc2ccccc21,638,671,NaN,NaN,4.954242509,NaN,NaN,40.3,NaN,475.60574,https://doi.org/10.1016/j.dyepig.2019.107802
+12934,CN1/C(=C/C=C(/C=C/c2sc3ccccc3[n+]2C)c2ccc(C(F)(F)F)cc2)Sc2ccccc21,639,659,NaN,NaN,4.612783857,NaN,NaN,44,NaN,507.62268,https://doi.org/10.1016/j.dyepig.2019.107802
+12938,CN1/C(=C/C=C(/C=C/c2sc3ccccc3[n+]2C)c2cccc(C(F)(F)F)c2)Sc2ccccc21,639,659,NaN,NaN,4.653212514,NaN,NaN,41.8,NaN,507.62268,https://doi.org/10.1016/j.dyepig.2019.107802
+12942,CN1/C(=C/C=C(/C=C/C2=[N+](C)c3ccccc3C2(C)C)c2ccc(F)cc2)C(C)(C)c2ccccc21,633,662,NaN,NaN,5.235528447,NaN,NaN,40.4,61.9,477.64496,https://doi.org/10.1016/j.dyepig.2019.107802
+12946,CN1/C(=C/C=C(/C=C/C2=[N+](C)c3ccccc3C2(C)C)c2cc(F)cc(F)c2)C(C)(C)c2ccccc21,631,659,NaN,NaN,5.235528447,NaN,NaN,39.7,57.4,495.63502,https://doi.org/10.1016/j.dyepig.2019.107802
+12950,CN1/C(=C/C=C(/C=C/C2=[N+](C)c3ccccc3C2(C)C)c2ccc(C(F)(F)F)cc2)C(C)(C)c2ccccc21,632,658,NaN,NaN,5.212187604,NaN,NaN,40.8,68.2,527.65196,https://doi.org/10.1016/j.dyepig.2019.107802
+12954,CN1/C(=C/C=C(/C=C/C2=[N+](C)c3ccccc3C2(C)C)c2cccc(C(F)(F)F)c2)C(C)(C)c2ccccc21,633,670,NaN,NaN,5.167317335,NaN,NaN,44.5,NaN,527.65196,https://doi.org/10.1016/j.dyepig.2019.107802
+13086,CC[n+]1c(-c2ccccc2)c2cc(N)ccc2c2ccc(N)cc21,480,606,NaN,NaN,NaN,NaN,NaN,NaN,NaN,314.4108,https://doi.org/10.1016/j.bmc.2003.08.006
+13087,CC[n+]1c(-c2ccccc2)c2cc(N)ccc2c2ccc(NC(N)=[NH2+])cc21,444,590,NaN,NaN,NaN,NaN,NaN,NaN,NaN,357.45962,https://doi.org/10.1016/j.bmc.2003.08.006
+13088,CC[n+]1c(-c2ccccc2)c2cc(NC(N)=[NH2+])ccc2c2ccc(N)cc21,454,605,NaN,NaN,NaN,NaN,NaN,NaN,NaN,357.45962,https://doi.org/10.1016/j.bmc.2003.08.006
+13089,CC[n+]1c(-c2ccccc2)c2cc(NC(N)=[NH2+])ccc2c2ccc(NC(N)=[NH2+])cc21,397,500,NaN,NaN,NaN,NaN,NaN,NaN,NaN,400.50844,https://doi.org/10.1016/j.bmc.2003.08.006
+13090,CC[n+]1c(-c2ccccc2)c2cc(N)ccc2c2ccc(NC(N)=O)cc21,458,587,NaN,NaN,NaN,NaN,NaN,NaN,NaN,357.43574,https://doi.org/10.1016/j.bmc.2003.08.006
+13091,CC[n+]1c(-c2ccccc2)c2cc(NC(N)=O)ccc2c2ccc(N)cc21,463,601,NaN,NaN,NaN,NaN,NaN,NaN,NaN,357.43574,https://doi.org/10.1016/j.bmc.2003.08.006
+13092,CC[n+]1c(-c2ccccc2)c2cc(NC(N)=O)ccc2c2ccc(NC(N)=O)cc21,434,520,NaN,NaN,NaN,NaN,NaN,NaN,NaN,400.46068,https://doi.org/10.1016/j.bmc.2003.08.006
+13093,CC[n+]1c(-c2ccccc2)c2cc(NC(=O)NCC[NH3+])ccc2c2ccc(NC(=O)NCC[NH3+])cc21,438,522,NaN,NaN,NaN,NaN,NaN,NaN,NaN,488.61396,https://doi.org/10.1016/j.bmc.2003.08.006
+13094,CC[n+]1c(-c2ccccc2)c2cc(NC(=O)N[C@H]3C[C@@H]([NH3+])[C@H](O)[C@@H](O)[C@@H]3O)ccc2c2ccc(NC(=O)N[C@@H]3C[C@H]([NH3+])[C@@H](O)[C@@H](O)[C@H]3O)cc21,438,522,NaN,NaN,NaN,NaN,NaN,NaN,NaN,692.79124,https://doi.org/10.1016/j.bmc.2003.08.006
+13095,CC[n+]1c(-c2ccccc2)c2cc(N)ccc2c2ccc(-n3cccc3)cc21,454,592,NaN,NaN,NaN,NaN,NaN,NaN,NaN,364.47068,https://doi.org/10.1016/j.bmc.2003.08.006
+13096,CC[n+]1c(-c2ccccc2)c2cc(-n3cccc3)ccc2c2ccc(N)cc21,462,603,NaN,NaN,NaN,NaN,NaN,NaN,NaN,364.47068,https://doi.org/10.1016/j.bmc.2003.08.006
+13097,CC[n+]1c(-c2ccccc2)c2cc(-n3cccc3)ccc2c2ccc(-n3cccc3)cc21,429,502,NaN,NaN,NaN,NaN,NaN,NaN,NaN,414.53056,https://doi.org/10.1016/j.bmc.2003.08.006
+13129,c1cc(N2CCCC2)ccn1,280,NaN,NaN,NaN,4.466541406,NaN,NaN,34.4,NaN,148.20828,https://doi.org/10.1016/S1010-6030(98)00275-5
+13132,c1ccncc1,253,NaN,NaN,NaN,3.556302501,NaN,NaN,NaN,NaN,79.1017,https://doi.org/10.1016/S1010-6030(98)00275-5
+13189,CN(CCO)c1ccc(/C=C/C2=C(C#N)C(C(C#N)C#N)OC2(C)C)cc1,587,648,NaN,NaN,NaN,NaN,NaN,103.3,46.9,362.43168,https://doi.org/10.1016/j.tetlet.2018.06.064
+13662,OCC1O[C@@H](Cc2cc(O)cc(/C=C/c3ccc(O)c(O)c3)c2)[C@H](O)[C@@H](O)[C@@H]1O,327,403,NaN,NaN,NaN,NaN,NaN,125.2,70.8,404.41356,https://doi.org/10.1016/j.saa.2012.10.013
+14046,O=c1[nH]c(=O)n([C@@H]2O[C@H](CO)[C@@H](O)[C@H]2O)c2ccsc12,292,351,NaN,NaN,NaN,NaN,NaN,NaN,53.4,300.29028,https://doi.org/10.1016/j.tet.2007.01.075
+14050,O=c1[nH]c(=O)c2scc([C@H]3C[C@H](O)[C@@H](CO)O3)c2[nH]1,294,351,NaN,NaN,NaN,NaN,NaN,NaN,51.5,284.29128,https://doi.org/10.1016/j.tet.2007.01.075
+14061,Nc1cccc2ncccc12,333,534,NaN,NaN,NaN,NaN,NaN,NaN,90.3,144.17652,https://doi.org/10.1016/j.molliq.2011.09.014
+14199,CCCCn1c2ccc(/C=C(\C#N)c3ccc([N+](=O)[O-])cc3)cc2c2cc(Cn3c(-c4ccc5c(c4)c4ccccc4n5CCCC)nc4ccccc43)ccc21,434,570,NaN,NaN,NaN,NaN,NaN,NaN,NaN,746.91248,https://doi.org/10.1016/j.optmat.2018.05.063
+14422,O=C1C=C(Nc2ccccc2)CCC1,306,380,NaN,NaN,NaN,NaN,NaN,NaN,NaN,187.24122,https://doi.org/10.1016/j.chemphys.2012.01.001
+14689,CCCCC[n+]1ccc(/C=C/c2ccc(N(C)C)c3ccccc23)c2ccccc21,452,697,NaN,NaN,NaN,NaN,NaN,NaN,NaN,395.56814,https://doi.org/10.1016/j.dyepig.2016.09.034
+14730,Fc1ccc(-c2nc3n(c2-c2ccncc2)CCS3)cc1,322,415,NaN,NaN,NaN,NaN,NaN,NaN,NaN,297.35628,https://doi.org/10.1016/j.saa.2016.07.027
+14926,CN(C)c1ccc(/C=C/c2ccc3ccccc3[n+]2C)cc1,500,622,NaN,NaN,NaN,NaN,NaN,NaN,NaN,289.40074,https://doi.org/10.1016/j.dyepig.2014.07.016
+14927,CN(C)c1ccc(/C=C/c2cc[n+](C)c3ccccc23)cc1,510,698,NaN,NaN,NaN,NaN,NaN,NaN,NaN,289.40074,https://doi.org/10.1016/j.dyepig.2014.07.016
+14928,CN(C)c1ccc(/C=C/c2cc3ccccc3c[n+]2C)cc1,394,625,NaN,NaN,NaN,NaN,NaN,NaN,NaN,289.40074,https://doi.org/10.1016/j.dyepig.2014.07.016
+14929,CN(C)c1ccc(/C=C/c2cc[n+](C)cc2)cc1,450,624,NaN,NaN,NaN,NaN,NaN,NaN,NaN,239.34086,https://doi.org/10.1016/j.dyepig.2014.07.016
+14967,COc1ccc2[nH]cc(/C=C/C3=[NH+]c4cccc5cccc3c45)c2c1,540,NaN,NaN,NaN,4.212187604,NaN,NaN,NaN,NaN,325.38998,https://doi.org/10.1016/j.jphotobiol.2016.12.004
+14969,C(=C/c1c[nH]c2ccc(Oc3ccccc3)cc12)\C1=[NH+]c2cccc3cccc1c23,532,NaN,NaN,NaN,4.152288344,NaN,NaN,NaN,NaN,387.46086,https://doi.org/10.1016/j.jphotobiol.2016.12.004
+14971,C(C1=[NH+]c2cccc3cccc1c23)=c1[nH]c2cccc3cccc1c32,538,NaN,NaN,NaN,4.505149978,NaN,NaN,NaN,NaN,319.3861,https://doi.org/10.1016/j.jphotobiol.2016.12.004
+14973,C(/C=C/C1=[NH+]c2cccc3cccc1c23)=c1/[nH]c2cccc3cccc1c32,598,NaN,NaN,NaN,4.531478917,NaN,NaN,NaN,NaN,345.42398,https://doi.org/10.1016/j.jphotobiol.2016.12.004
+15099,N#CC(C#N)=Cc1ccc(-c2ccc(O)c(-c3nc4ccccc4s3)c2)o1,429,652,NaN,NaN,3.368472838,NaN,NaN,NaN,NaN,369.40334,https://doi.org/10.1016/j.tetlet.2019.03.029
+15100,Oc1ccc(-c2cccs2)cc1-c1nc2ccccc2s1,361,566,NaN,NaN,2.925312091,NaN,NaN,NaN,NaN,309.41234,https://doi.org/10.1016/j.tetlet.2019.03.029
+15102,N#CC(C#N)=Cc1ccc(-c2ccc(O)c(-c3nc4ccccc4s3)c2)s1,416,646,NaN,NaN,3.369586891,NaN,NaN,NaN,NaN,385.47034,https://doi.org/10.1016/j.tetlet.2019.03.029
+15189,CCOC(=O)COc1ccccc1C(c1c(C)[nH]c2ccccc12)c1c(C)[nH]c2ccccc12,290,350,NaN,NaN,NaN,NaN,NaN,NaN,NaN,452.55232,https://doi.org/10.1016/j.saa.2012.09.046
+15193,CCOC(=O)CCOc1ccccc1C(c1c(C)[nH]c2ccccc12)c1c(C)[nH]c2ccccc12,290,350,NaN,NaN,NaN,NaN,NaN,NaN,NaN,466.5792,https://doi.org/10.1016/j.saa.2012.09.046
+15197,CCOC(=O)COc1ccc(C(c2c(C)[nH]c3ccccc23)c2c(C)[nH]c3ccccc23)cc1,289,350,NaN,NaN,NaN,NaN,NaN,NaN,NaN,452.55232,https://doi.org/10.1016/j.saa.2012.09.046
+15201,CCOC(=O)CCOc1ccc(C(c2c(C)[nH]c3ccccc23)c2c(C)[nH]c3ccccc23)cc1,290,350,NaN,NaN,NaN,NaN,NaN,NaN,NaN,466.5792,https://doi.org/10.1016/j.saa.2012.09.046
+15205,CCOC(=O)COc1ccc(C(c2c(C)[nH]c3ccccc23)c2c(C)[nH]c3ccccc23)cc1OC,290,350,NaN,NaN,NaN,NaN,NaN,NaN,NaN,482.5782,https://doi.org/10.1016/j.saa.2012.09.046
+15209,CCOC(=O)CCOc1ccc(C(c2c(C)[nH]c3ccccc23)c2c(C)[nH]c3ccccc23)cc1OC,289,351,NaN,NaN,NaN,NaN,NaN,NaN,NaN,496.60508,https://doi.org/10.1016/j.saa.2012.09.046
+16545,[O-]c1c(-c2ccccc2)cc(-[n+]2c(-c3ccccc3)cc(-c3ccccc3)cc2-c2ccccc2)cc1-c1ccccc1,453,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,551.68726,https://doi.org/10.1021/cr00032a005
+16669,CC[n+]1ccc2ccccc2c1/C=C/c1c([O-])ccc2ccc(=O)oc12,491.7098681,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,343.38098,https://doi.org/10.1016/j.snb.2011.03.020
+16678,CC[n+]1c(/C=C/c2c([O-])ccc3ccc(=O)oc23)sc2ccccc21,492.7553238,NaN,NaN,NaN,NaN,NaN,NaN,96.6,NaN,349.4091,https://doi.org/10.1016/j.snb.2011.03.020
+16700,C[n+]1ccc(-c2ccc([O-])cc2)cc1,394,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,185.22534,https://doi.org/10.1016/j.tetlet.2005.05.031
+16777,CCCCN1C(=O)c2cccc3c([O-])c(/C=C/c4sc5ccccc5[n+]4CC)cc(c23)C1=O,489.4899536,NaN,NaN,NaN,NaN,NaN,NaN,116.6,NaN,456.56456,https://doi.org/10.1016/j.dyepig.2015.07.010
+16853,C[n+]1ccc(/C=C/c2ccc([O-])cc2)cc1,442,560,NaN,NaN,NaN,NaN,NaN,NaN,NaN,211.26322,https://doi.org/10.1016/j.molstruc.2005.06.010
+16974,I[I-]I,351.7697027,NaN,NaN,NaN,NaN,NaN,NaN,65.7,NaN,380.7,doi:10.1155/2011/130102
+16975,O=[N+]([O-])c1ccccc1O,411,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,139.1097,10.1021/acsearthspacechem.9b00328
+16976,O=[N+]([O-])c1cccc(O)c1,328,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,139.1097,10.1021/acsearthspacechem.9b00328
+16977,O=[N+]([O-])c1ccc(O)cc1,401,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,139.1097,10.1021/acsearthspacechem.9b00328
+16978,O=[N+]([O-])c1ccc(O)c(O)c1,423,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,155.1087,10.1021/acsearthspacechem.9b00328
+16979,O=[N+]([O-])c1ccc[nH]1,350,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,112.08776,10.1021/acsearthspacechem.9b00328
+16980,O=[N+]([O-])c1cc[nH]c1,280,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,112.08776,10.1021/acsearthspacechem.9b00328
+16981,O=[N+]([O-])c1ccco1,313,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,113.07182,10.1021/acsearthspacechem.9b00328
+16982,O=[N+]([O-])c1cccs1,318,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,129.13882,10.1021/acsearthspacechem.9b00328
+16983,CCCCC(CC)CO[N+](=O)[O-],198,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,175.22698,10.1021/acsearthspacechem.9b00328
+17004,N=C(N)N,265,NaN,NaN,NaN,1.176091259,NaN,NaN,NaN,NaN,59.0717,ISBN 978-3-540-93810-1
+17016,CC(=O)[O-],210,NaN,NaN,NaN,2.176091259,NaN,NaN,NaN,NaN,59.04382,ISBN 978-3-540-93810-1
+17018,CC(N)=O,220,NaN,NaN,NaN,1.799340549,NaN,NaN,NaN,NaN,59.0677,ISBN 978-3-540-93810-1
+17465,CN(C)c1ccc2c(c1)C(C)(C)C1=CC(=[N+](C)C)C=CC1=C2,604,621,NaN,NaN,4.74,NaN,NaN,NaN,NaN,293.4325,DOI: 10.1021/jo500140y
+17467,CN(C)c1ccc2c(c1)[Si](C)(C)C1=CC(=[N+](C)C)C=CC1=C2,634,648,NaN,NaN,4.86,NaN,NaN,NaN,NaN,309.5075,DOI: 10.1021/jo500140y
+17871,C#CCOc1ccc(/C=C/C2=[N+]3C(=C(c4ccc(N(CC)CC)cc4)c4c(C)cc(/C=C/c5ccc(S(=O)(=O)O)cc5S(=O)(=O)O)n4[B-]3(F)F)C(C)=C2)cc1,643,660,NaN,NaN,NaN,NaN,NaN,NaN,NaN,785.69472,DOI: 10.1021/ol202379w
+20205,c1cc2c3ccc[n+]4cccc(c5ccc[n+](c1)c25)c34,422,441,6.8,NaN,4.06,NaN,NaN,NaN,NaN,256.30728,DOI: 10.1021/ol0268687
+1117,O=C([O-])c1ccccc1C1=c2cc3c4c(c2Oc2c1cc1c5c2CCCN5CCC1)CCC[N+]=4CCC3,575,604,4.91,0.99,NaN,NaN,NaN,NaN,NaN,490.6012,http://dx.doi.org/10.1016/j.jlumin.2013.07.066
+12904,CC[N+]1(CC)CN2C(=N1)C(C(=O)O)=Cc1ccc(OC)cc12,372,449,NaN,0.967,4.016657345,NaN,NaN,79.7,73.9,302.3528,https://doi.org/10.1016/j.dyepig.2018.09.005
+11427,c1coc(-c2nc3ccccc3[nH]2)c1,NaN,NaN,1.67,0.96,NaN,NaN,NaN,NaN,NaN,184.19752,https://doi.org/10.1016/1010-6030(94)03831-7
+35,O=C([O-])c1ccccc1-c1c2ccc(=O)cc-2oc2cc([O-])ccc12,NaN,NaN,4.16,0.95,NaN,NaN,NaN,NaN,NaN,330.2944,https://doi.org/10.1111/j.1751-1097.1999.tb08277.x
+1028,CC/[NH+]=c1\cc2oc3cc(NC)c(C)cc3c(-c3ccccc3C(=O)OCC)c-2cc1C,NaN,NaN,NaN,0.95,NaN,NaN,NaN,NaN,NaN,429.53826,doi:10.1351/PAC-REP-10-09-31
+1114,CCNc1cc2oc3c/c(=[NH+]\CC)c(C)cc-3c(-c3ccccc3C(=O)OCC)c2cc1C,525,554,4.22,0.95,NaN,NaN,NaN,NaN,NaN,443.56514,http://dx.doi.org/10.1016/j.jlumin.2013.07.066
+5034,CC(=O)OC[C@@H]1O[C@H](n2cnc3c2N=CN2Cc4c[n+](C)c(C)nc4N=C32)[C@@H](O)[C@H]1O,383,409,3.28,0.95,4.605305046,NaN,NaN,NaN,NaN,428.42768,https://doi.org/10.1016/1010-6030(94)03924-J
+7749,COC(=O)c1nc2cnc(N)nc2n1Cc1ccccc1,325,420,NaN,0.95,4.1,NaN,NaN,NaN,73.4,283.29022,10.1021/ja806348z
+1118,CCN(CC)c1ccc2cc3ccc(=[N+](CC)CC)cc-3oc2c1,550,555,4.07,0.94,NaN,NaN,NaN,NaN,NaN,323.45838,http://dx.doi.org/10.1016/j.jlumin.2013.07.066
+1068,c1ccc2[nH]ccc2c1,269,340,NaN,0.93,3.718916686,NaN,NaN,40.5,58.1,117.15058,doi: 10.3389/fmars.2015.00098
+8617,CCCCCn1c2ccc(S(=O)(=O)O)cc2c(=O)c2cc(S(=O)(=O)O)ccc21,406,431,15.62,0.92,3.791690649,NaN,NaN,NaN,NaN,425.48086,https://doi.org/10.1016/j.dyepig.2019.03.028
+1115,COC(=O)c1ccccc1-c1c2ccc(=[NH2+])cc-2oc2cc(N)ccc12,497,527,4.2,0.89,NaN,NaN,NaN,NaN,NaN,345.37698,http://dx.doi.org/10.1016/j.jlumin.2013.07.066
+7741,N#Cc1nc2cnc(N)nc2n1Cc1ccccc1,331,406,NaN,0.88,2.8,NaN,NaN,NaN,62.1,250.2644,10.1021/ja806348z
+12906,CC[N+]1(CC)CN2C(=N1)C(C(=O)O)=Cc1cc(OC)c(OC)cc12,392,472,NaN,0.859,3.844477176,NaN,NaN,80.4,66.3,332.37868,https://doi.org/10.1016/j.dyepig.2018.09.005
+1116,Nc1ccc2c(-c3ccccc3C(=O)[O-])c3ccc(=[NH2+])cc-3oc2c1,497,523,4.28,0.85,NaN,NaN,NaN,NaN,NaN,330.34216,http://dx.doi.org/10.1016/j.jlumin.2013.07.066
+5647,N#Cc1cc(-c2ccc(F)cc2)cnc1O,343,425,5.38,0.836,NaN,NaN,NaN,NaN,NaN,214.19858,http://dx.doi.org/10.1016/j.jlumin.2014.02.025
+4944,O=c1ccc2cc3c(cc2o1)OCC3,336,410,NaN,0.83,NaN,NaN,NaN,NaN,NaN,188.18152,https://doi.org/10.1016/0047-2670(87)85034-7
+8613,O=c1c2cc(S(=O)(=O)O)ccc2[nH]c2ccc(S(=O)(=O)O)cc12,396,417,16.49,0.82,3.646403726,NaN,NaN,NaN,NaN,355.34646,https://doi.org/10.1016/j.dyepig.2019.03.028
+5037,CC1=CC2=Nc3nc(C)[n+](C)cc3CN2C=C1,392,426,5.23,0.79,4.356025857,NaN,NaN,NaN,NaN,227.2901,https://doi.org/10.1016/1010-6030(94)03924-J
+12909,CC[N+]1(CC)CN2C(C)=CC(C)=C(C(=O)[O-])C2=N1,338,449,NaN,0.783,3.633165354,NaN,NaN,82.8,82,249.31286,https://doi.org/10.1016/j.dyepig.2018.09.005
+12814,CCCCn1c(-c2ccc(-c3ccc(-c4ccc(-c5n(CCCC)c6cc(C)ccc6[n+]5CCCC)cc4)cc3)cc2)[n+](CCCC)c2ccc(C)cc21,304,397,NaN,0.78,4.800717078,NaN,NaN,57.4,78.7,717.0544,https://doi.org/10.1016/j.dyepig.2011.06.030
+12811,CCCCn1c(-c2ccc(-c3ccc(-c4ccc(-c5n(CCCC)c6ccccc6[n+]5CCCC)cc4)cc3)cc2)[n+](CCCC)c2ccccc21,303,397,NaN,0.77,4.781755375,NaN,NaN,53.9,66.8,689.00064,https://doi.org/10.1016/j.dyepig.2011.06.030
+4939,COc1cc(OC)c2ccc(=O)oc2c1,327,450,NaN,0.76,NaN,NaN,NaN,NaN,NaN,206.1964,https://doi.org/10.1016/0047-2670(87)85034-7
+8615,Cn1c2ccc(S(=O)(=O)O)cc2c(=O)c2cc(S(=O)(=O)O)ccc21,403,433,16.71,0.76,3.748962861,NaN,NaN,NaN,NaN,369.37334,https://doi.org/10.1016/j.dyepig.2019.03.028
+12810,CCn1c(-c2ccc(-c3ccc(-c4ccc(-c5n(CC)c6ccccc6[n+]5CC)cc4)cc3)cc2)[n+](CC)c2ccccc21,305,397,NaN,0.75,4.783903579,NaN,NaN,54.1,72,576.7856,https://doi.org/10.1016/j.dyepig.2011.06.030
+12910,CC[N+]1(CC)CN2C(=N1)C(C(=O)[O-])=Cc1ccccc12,369,458,NaN,0.736,3.593950295,NaN,NaN,65.9,83.6,271.31898,https://doi.org/10.1016/j.dyepig.2018.09.005
+12813,CCn1c(-c2ccc(-c3ccc(-c4ccc(-c5n(CC)c6cc(C)ccc6[n+]5CC)cc4)cc3)cc2)[n+](CC)c2ccc(C)cc21,307,397,NaN,0.72,4.813580989,NaN,NaN,49.4,68.2,604.83936,https://doi.org/10.1016/j.dyepig.2011.06.030
+12908,CC[N+]1(CC)CN2C(=N1)C(C(=O)O)=Cc1c2ccc2ccccc12,406,487,NaN,0.711,3.796643704,NaN,NaN,124.1,NaN,322.3868,https://doi.org/10.1016/j.dyepig.2018.09.005
+12809,Cn1c(-c2ccc(-c3ccc(-c4ccc(-c5n(C)c6ccccc6[n+]5C)cc4)cc3)cc2)[n+](C)c2ccccc21,312,397,NaN,0.71,4.7930916,NaN,NaN,53,72,520.67808,https://doi.org/10.1016/j.dyepig.2011.06.030
+12816,CCn1c(-c2ccc(-c3ccc(-c4ccc(-c5n(CC)c6ccccc6[n+]5CC)cc4)c(C)c3)cc2)[n+](CC)c2ccccc21,290,400,NaN,0.71,4.681241237,NaN,NaN,59.8,73.6,590.81248,https://doi.org/10.1016/j.dyepig.2011.06.030
+12812,Cc1ccc2c(c1)n(C)c(-c1ccc(-c3ccc(-c4ccc(-c5n(C)c6cc(C)ccc6[n+]5C)cc4)cc3)cc1)[n+]2C,315,397,NaN,0.68,4.824125834,NaN,NaN,50.2,65.8,548.73184,https://doi.org/10.1016/j.dyepig.2011.06.030
+12815,Cc1cc(-c2ccc(-c3n(C)c4ccccc4[n+]3C)cc2)ccc1-c1ccc(-c2n(C)c3ccccc3[n+]2C)cc1,299,399,NaN,0.65,4.679427897,NaN,NaN,57.4,72.4,534.70496,https://doi.org/10.1016/j.dyepig.2011.06.030
+13570,N#Cc1cccc(N)c1C#N,346,419,15,0.65,NaN,NaN,NaN,NaN,NaN,143.1487,https://doi.org/10.1016/j.cplett.2006.03.073
+329,Nc1cccc[nH+]1,NaN,NaN,11.2,0.64,NaN,NaN,NaN,NaN,NaN,95.12458,DOI: 10.1021/j100558a015
+1273,O=C([O-])c1ccc(C(=O)[O-])c(C2=c3cc4c5c(c3Oc3c2cc2c6c3CCCN6CCC2)CCC[N+]=5CCC4)c1,574,603,4.79,0.64,NaN,NaN,NaN,NaN,NaN,533.60226,http://dx.doi.org/10.1016/j.jlumin.2016.07.031
+3858,O=C([O-])c1c(Cl)c(Cl)c(Cl)c(Cl)c1-c1c2cc(Cl)c(=O)c(Cl)c-2oc2c(Cl)c(O)c(Cl)cc12,537,553,4.15,0.628,NaN,NaN,NaN,29.4,29.1,606.86282,https://doi.org/10.1016/j.dyepig.2019.107635
+12894,CC[N+]1(CC)CN2C(C)=CC(C)=C(C(=O)O)C2=N1,343,449,NaN,0.622,3.656673046,NaN,NaN,60.4,82.1,250.3208,https://doi.org/10.1016/j.dyepig.2018.09.005
+2623,CNCCCC1c2ccccc2C=Cc2ccccc21,292,360,2.56,0.62,4.11,NaN,NaN,NaN,NaN,263.38274,10.1021/jp0710739
+12903,CC[N+]1(CC)CN2C(=N1)C(C(=O)O)=Cc1ccc(C)cc12,370,457,NaN,0.617,3.579326204,NaN,NaN,84.7,67,286.3538,https://doi.org/10.1016/j.dyepig.2018.09.005
+1272,O=C([O-])c1ccc(C2=c3cc4c5c(c3Oc3c2cc2c6c3CCCN6CCC2)CCC[N+]=5CCC4)c(C(=O)[O-])c1,574,603,4.36,0.6,NaN,NaN,NaN,NaN,NaN,533.60226,http://dx.doi.org/10.1016/j.jlumin.2016.07.031
+3640,Nc1ccccc1C(=O)O,310,397,8.7,0.6,NaN,NaN,NaN,NaN,NaN,137.13758,DOI: 10.1007/s10895-005-2525-3
+12898,CC[N+]1(CC)CN2C(=N1)C(C(=O)O)=Cc1cc(Oc3ccccc3)ccc12,387,485,NaN,0.592,3.573103783,NaN,NaN,91.8,93.8,364.42368,https://doi.org/10.1016/j.dyepig.2018.09.005
+4652,Nc1ccc2[nH]ncc2c1,NaN,NaN,12.5,0.57,NaN,NaN,NaN,NaN,NaN,133.15358,https://doi.org/10.1016/S1010-6030(97)00192-5
+12718,NS(=O)(=O)c1ccc(N2N=C(c3ccc(O)cc3)CC2c2ccc(F)cc2)cc1,359,448,3.171,0.57,5.267171728,NaN,NaN,57.2,79.3,411.45592,https://doi.org/10.1016/j.jphotochem.2017.10.010
+7549,Cc1cc(/N=C/c2cc(S(=O)(=O)O[Na])ccc2O)c(/N=C/c2cc(S(=O)(=O)O[Na])ccc2O)cc1C,371,426,NaN,0.56,4.63447727,NaN,NaN,NaN,NaN,548.50292,http://dx.doi.org/10.1021/jp403750q
+12698,NS(=O)(=O)c1ccc(N2N=C(c3ccc(O)cc3)CC2c2ccc(Br)cc2)cc1,359,449,3.073,0.56,5.307496038,NaN,NaN,54.8,78.6,472.36192,https://doi.org/10.1016/j.jphotochem.2017.10.010
+12708,NS(=O)(=O)c1ccc(N2N=C(c3ccc(O)cc3)CC2c2ccc(Cl)cc2)cc1,359,448,3.202,0.56,5.127104798,NaN,NaN,55.9,78.9,427.91092,https://doi.org/10.1016/j.jphotochem.2017.10.010
+3845,Cc1cc(=O)c2ccc(N)cc2o1,322,435,5.52,0.5569,NaN,NaN,NaN,NaN,64.6,175.18646,https://doi.org/10.1016/j.chemphys.2018.09.042
+12678,Cc1ccc(C2CC(c3ccc(O)cc3)=NN2c2ccc(S(N)(=O)=O)cc2)cc1,360,449,3.348,0.55,5.123851641,NaN,NaN,55,79.2,407.49274,https://doi.org/10.1016/j.jphotochem.2017.10.010
+18070,COCCOCCOCCOCCOc1cc(C=O)c(OCCOCCOCCOCCOC)cc1C=O,394,495,NaN,0.55,NaN,NaN,NaN,NaN,NaN,546.60748,DOI: 10.1021/acs.joc.6b01969
+18147,COCCOCCOc1cc(C=O)c(OCCOCCOC)cc1C=O,396,496,NaN,0.55,NaN,NaN,NaN,NaN,NaN,370.39644,DOI: 10.1021/acs.joc.6b01969
+1026,C=CC1CN2CCC1CC2[C@H](O)c1ccnc2ccc(OC)cc12,347,451,NaN,0.546,NaN,NaN,NaN,NaN,NaN,324.42256,doi:10.1351/PAC-REP-10-09-31
+2673,c1ccc(-c2nc3c(ccc4[nH]ccc43)o2)cc1,321,459,5.71,0.54,NaN,NaN,NaN,NaN,NaN,234.2574,DOI: 10.1021/acs.jpcb.7b03611
+12688,COc1ccc(C2CC(c3ccc(O)cc3)=NN2c2ccc(S(N)(=O)=O)cc2)cc1,360,448,3.313,0.54,5.086359831,NaN,NaN,54.7,79,423.49174,https://doi.org/10.1016/j.jphotochem.2017.10.010
+18136,COCCOc1cc(C=O)c(OCCOC)cc1C=O,391,495,NaN,0.54,NaN,NaN,NaN,NaN,NaN,282.29092,DOI: 10.1021/acs.joc.6b01969
+18158,COCCOCCOCCOc1cc(C=O)c(OCCOCCOCCOC)cc1C=O,394,495,NaN,0.54,NaN,NaN,NaN,NaN,NaN,458.50196,DOI: 10.1021/acs.joc.6b01969
+18581,CC[n+]1nc2cc3c(cc2c2cc(C)ccc21)N(C)CCC3,487,544,4.3,0.54,4.336459734,NaN,NaN,72.5,71.1,292.40468,DOI: 10.1021/acs.joc.5b00242
+12895,CC[N+]1(CC)CN2C(=N1)C(C(=O)O)=Cc1ccccc12,373,462,NaN,0.531,3.648847708,NaN,NaN,65.3,82.9,272.32692,https://doi.org/10.1016/j.dyepig.2018.09.005
+13578,N#Cc1ccc(C#N)c(N)c1,349,418,17,0.53,NaN,NaN,NaN,NaN,NaN,143.1487,https://doi.org/10.1016/j.cplett.2006.03.073
+12905,CC[N+]1(CC)CN2C(=N1)C(C(=O)O)=Cc1cc(C)c(C)cc12,378,466,NaN,0.525,3.767452718,NaN,NaN,72.2,63.4,300.38068,https://doi.org/10.1016/j.dyepig.2018.09.005
+6140,C[NH+](C)c1c2ccccc2cc2ccccc12,389,400,17.3,0.52,NaN,NaN,NaN,NaN,NaN,222.31004,DOI: 10.1021/jp9638696
+13826,Cc1oc(-c2ccccc2)nc1C(=O)O,273,336,NaN,0.51,4.195899652,NaN,NaN,NaN,NaN,203.19646,https://doi.org/10.1016/j.tet.2010.09.014
+12897,CC[N+]1(CC)CN2C(=N1)C(C(=O)O)=Cc1cc(OC)ccc12,394,491,NaN,0.509,3.57054294,NaN,NaN,91.8,93.8,302.3528,https://doi.org/10.1016/j.dyepig.2018.09.005
+12902,CC[N+]1(CC)CN2C(=N1)C(C(=O)O)=Cc1ccc(Cl)cc12,367,459,NaN,0.507,3.776119799,NaN,NaN,85.9,73.8,306.77198,https://doi.org/10.1016/j.dyepig.2018.09.005
+10783,N#C[Se]CCCCCOc1ccc2ccc(=O)oc2c1,324,397,1.75,0.497,3.977586438,NaN,NaN,47.6,60.9,336.2481,https://doi.org/10.1016/j.jlumin.2011.11.017
+11389,CC/[NH+]=c1\cc2oc3cc(NCCNC(=O)C(NC(=O)OC(C)(C)C)C(C)C)c4ccccc4c3nc-2cc1C,590,653,NaN,0.48,NaN,NaN,NaN,79.1,52,546.6896,https://doi.org/10.1016/j.tet.2007.09.042
+4805,CN(C)c1cc(C#N)c(N(C)C)c(C#N)c1,386.8471954,555.247085,22,0.47,NaN,NaN,NaN,NaN,NaN,214.27116,doi:10.1016/j.jphotochem.2006.03.020
+11384,CC/[NH+]=c1\cc2oc3cc(NCCC(=O)NCCCCC(NC(C)=O)C(=O)OC)c4ccccc4c3nc-2cc1C,590,654,NaN,0.46,NaN,NaN,NaN,NaN,NaN,560.67272,https://doi.org/10.1016/j.tet.2007.09.042
+1274,CN(C)c1ccc2c(-c3ccc(C(=O)[O-])cc3C(=O)[O-])c3ccc(=[N+](C)C)cc-3oc2c1,548,578,2.44,0.45,NaN,NaN,NaN,NaN,NaN,429.45074,http://dx.doi.org/10.1016/j.jlumin.2016.07.031
+1275,CN(C)c1ccc2c(-c3cc(C(=O)[O-])ccc3C(=O)[O-])c3ccc(=[N+](C)C)cc-3oc2c1,549,575,2.36,0.45,NaN,NaN,NaN,NaN,NaN,429.45074,http://dx.doi.org/10.1016/j.jlumin.2016.07.031
+11381,CC/[NH+]=c1\cc2oc3cc(NCCC(=O)NCC(=O)OC)c4ccccc4c3nc-2cc1C,590,652,NaN,0.45,NaN,NaN,NaN,NaN,NaN,447.51338,https://doi.org/10.1016/j.tet.2007.09.042
+2432,CN(C)c1ccc2c(c1)[Sn](C)(C)C1=CC(=[N+](C)C)C=CC1=C2,614,628,NaN,0.43,NaN,NaN,NaN,32.5,29.4,400.1315,http://dx.doi.org/10.1021/cb1002416
+2428,CN(C)c1ccc2c(c1)[Si](C)(C)C1=CC(=[N+](C)C)C=CC1=C2,634,648,NaN,0.42,NaN,NaN,NaN,34.9,34.4,309.5075,http://dx.doi.org/10.1021/cb1002416
+13312,CC[N+]1=C(/C=C/c2c(C)nn3c(-c4ccc(OC)cc4)ccnc23)C(C)(C)c2ccccc21,464,525,NaN,0.42,4.617000341,NaN,NaN,80,66.7,437.56526,https://doi.org/10.1016/j.talanta.2018.12.100
+5109,O=C(O)c1cc2c(ccc3ccccc32)oc1=O,376,460,NaN,0.41,NaN,NaN,3643.9,NaN,NaN,240.21352,doi:10.1016/j.jphotochem.2006.02.028
+12668,NS(=O)(=O)c1ccc(N2N=C(c3ccc(O)cc3)CC2c2ccccc2)cc1,359,448,3.164,0.41,5.472756449,NaN,NaN,NaN,NaN,393.46586,https://doi.org/10.1016/j.jphotochem.2017.10.010
+14884,COc1ccc2cc([C@H](C)C(=O)O)ccc2c1,331.2,355.5,9.6,0.41,NaN,NaN,NaN,NaN,NaN,230.26216,https://doi.org/10.1016/1011-1344(95)90245-7
+2430,CN(C)c1ccc2c(c1)[Ge](C)(C)C1=CC(=[N+](C)C)C=CC1=C2,621,634,NaN,0.4,NaN,NaN,NaN,32.1,33.1,354.0315,http://dx.doi.org/10.1021/cb1002416
+11382,CC/[NH+]=c1\cc2oc3cc(NCCC(=O)NC(C(=O)OC)c4ccccc4)c4ccccc4c3nc-2cc1C,590,657,NaN,0.4,NaN,NaN,NaN,NaN,NaN,523.61114,https://doi.org/10.1016/j.tet.2007.09.042
+13582,N#Cc1cccc(C#N)c1N,344,394,7.2,0.4,3.832508913,NaN,NaN,NaN,NaN,143.1487,https://doi.org/10.1016/j.cplett.2006.03.073
+4656,Nc1ccc2cn[nH]c2c1,NaN,NaN,4.4,0.39,NaN,NaN,NaN,NaN,NaN,133.15358,https://doi.org/10.1016/S1010-6030(97)00192-5
+1278,CN(C)c1ccc2cc3ccc(=[N+](C)C)cc-3oc2c1,548,565,1.86,0.38,NaN,NaN,NaN,NaN,NaN,267.35086,http://dx.doi.org/10.1016/j.jlumin.2016.07.031
+5027,Cc1nc2c(c[n+]1C)CN1C(=O)N([C@H]3O[C@@H](CO)[C@H](O)[C@@H]3O)C=CC1=N2,384,414,1.58,0.38,4.5289167,NaN,NaN,NaN,NaN,362.3648,https://doi.org/10.1016/1010-6030(94)03924-J
+11413,CC1(C)CC(=O)C2=C(C1)Oc1ccc3cc(O)ccc3c1C2c1ccccn1,347,378,NaN,0.38,NaN,NaN,NaN,NaN,NaN,371.43474,https://doi.org/10.1016/j.jphotochem.2013.11.014
+3176,CC1=CC(C)=[N+]2C1=C(c1ccccc1)c1c(C)cc(/C=C/c3ccc(O)cc3)n1[B-]2(F)F,565,590,NaN,0.37,NaN,NaN,NaN,NaN,NaN,428.28862,DOI: 10.1039/c4cs00030g
+1112,CCN(CC)c1ccc2c(-c3ccccc3C(=O)[O-])c3ccc(=[N+](CC)CC)cc-3oc2c1,554,580,1.75,0.36,NaN,NaN,NaN,NaN,NaN,442.5572,http://dx.doi.org/10.1016/j.jlumin.2013.07.066
+1113,CCN(CC)c1ccc2c(-c3ccc(S(=O)(=O)O)cc3S(=O)(=O)[O-])c3ccc(=[N+](CC)CC)cc-3oc2c1,554,591,1.78,0.36,NaN,NaN,NaN,NaN,NaN,558.6742,http://dx.doi.org/10.1016/j.jlumin.2013.07.066
+11386,CC/[NH+]=c1\cc2oc3cc(NCCO)c4ccccc4c3nc-2cc1C,590,651,NaN,0.36,NaN,NaN,NaN,83,58.4,348.42468,https://doi.org/10.1016/j.tet.2007.09.042
+14948,CC1(C)C2=[N+](CCCCCC(=O)NCCCNC(=O)CCCCCN3/C(=C/C=C/C=C/C=C/2)C(C)(C)c2cc(S(=O)(=O)[O-])ccc23)c2ccc(S(=O)(=O)[O-])cc21,749,768,NaN,0.36,5.357934847,NaN,NaN,NaN,NaN,806.03482,https://doi.org/10.1016/j.dyepig.2012.12.031
+19743,COc1ccc(-c2cc(N3CCCCC3)c(C#N)c3c2-c2cccc4cccc-3c24)cc1,430,552,NaN,0.36,NaN,NaN,NaN,NaN,NaN,416.52256,DOI: 10.1021/ol403470d
+12901,CC[N+]1(CC)CN2C(=N1)C(C(=O)O)=Cc1cc(Cl)ccc12,377,472,NaN,0.352,3.651859269,NaN,NaN,87.9,70,306.77198,https://doi.org/10.1016/j.dyepig.2018.09.005
+1062,O=C(O)c1ccccc1O,295,407,NaN,0.35,3.539577883,NaN,NaN,32.9,66.9,138.12164,doi: 10.3389/fmars.2015.00098
+12900,CC[N+]1(CC)CN2C(=N1)C(C(=O)O)=Cc1cc(F)ccc12,375,474,NaN,0.344,3.70612011,NaN,NaN,97.7,79.9,290.31698,https://doi.org/10.1016/j.dyepig.2018.09.005
+1110,CCOC(=O)c1ccccc1-c1c2ccc(=[N+](CC)CC)cc-2oc2cc(N(CC)CC)ccc12,552,581,1.74,0.34,NaN,NaN,NaN,NaN,NaN,471.6189,http://dx.doi.org/10.1016/j.jlumin.2013.07.066
+2431,Cc1ccccc1C1=C2C=CC(=[N+](C)C)C=C2[Ge](C)(C)c2cc(N(C)C)ccc21,635,649,NaN,0.34,NaN,NaN,NaN,31.5,34.8,444.15614,http://dx.doi.org/10.1021/cb1002416
+11928,Fc1ccc2cc3cccc[n+]3cc2c1,400,408,NaN,0.34,3.812913357,NaN,NaN,70.8,NaN,198.21946,https://doi.org/10.1016/j.dyepig.2008.10.003
+13825,COC(=O)c1nc(-c2ccccc2)oc1C,267,328,NaN,0.34,4.290034611,NaN,NaN,NaN,NaN,217.22334,https://doi.org/10.1016/j.tet.2010.09.014
+18584,CC[n+]1nc2cc3c4c(c2c2cc(F)ccc21)CCCN4CCC3,494,564,4.4,0.34,4.589949601,NaN,NaN,80.9,73,322.40574,DOI: 10.1021/acs.joc.5b00242
+11927,c1ccc2c[n+]3ccccc3cc2c1,396,404,NaN,0.33,3.880813592,NaN,NaN,69.9,NaN,180.2294,https://doi.org/10.1016/j.dyepig.2008.10.003
+14946,CC1(C)C2=[N+](CCCCCC(=O)NCCNC(=O)CCCCCN3/C(=C/C=C/C=C/C=C/2)C(C)(C)c2cc(S(=O)(=O)[O-])ccc23)c2ccc(S(=O)(=O)[O-])cc21,750,770,NaN,0.33,5.365487985,NaN,NaN,NaN,NaN,792.00794,https://doi.org/10.1016/j.dyepig.2012.12.031
+2433,Cc1ccc(C2=C3C=CC(=[N+](C)C)C=C3[Si](C)(C)c3cc(N(C)C)ccc32)c(C)c1,646,660,NaN,0.32,NaN,NaN,NaN,NaN,NaN,413.65902,http://dx.doi.org/10.1021/cb1002416
+2434,Cc1ccc(C)c(C2=C3C=CC(=[N+](C)C)C=C3[Si](C)(C)c3cc(N(C)C)ccc32)c1,646,660,NaN,0.32,NaN,NaN,NaN,NaN,NaN,413.65902,http://dx.doi.org/10.1021/cb1002416
+14944,CC1(C)C2=[N+](CCCCCC(=O)NCNC(=O)CCCCCN3/C(=C/C=C/C=C/C=C/2)C(C)(C)c2cc(S(=O)(=O)[O-])ccc23)c2ccc(S(=O)(=O)[O-])cc21,749,773,NaN,0.32,5.372912003,NaN,NaN,NaN,NaN,777.98106,https://doi.org/10.1016/j.dyepig.2012.12.031
+208,CCN(CC)c1ccc2c(-c3ccccc3C(=O)[O-])c3ccc(=[N+](CC)CC)cc-3oc2c1,NaN,NaN,1.74,0.31,NaN,NaN,NaN,NaN,NaN,442.5572,10.1021/ac062160k
+2429,Cc1ccccc1C1=C2C=CC(=[N+](C)C)C=C2[Si](C)(C)c2cc(N(C)C)ccc21,646,660,NaN,0.31,NaN,NaN,NaN,34.2,35.4,399.63214,http://dx.doi.org/10.1021/cb1002416
+12899,CC[N+]1(CC)CN2C(=N1)C(C(=O)O)=Cc1cc(SC)ccc12,397,515,NaN,0.308,3.602059991,NaN,NaN,86.8,NaN,318.4198,https://doi.org/10.1016/j.dyepig.2018.09.005
+1109,CCCCOC(=O)c1ccccc1-c1c2ccc(=[N+](CC)CC)cc-2oc2cc(N(CC)CC)ccc12,558,584,1.67,0.3,NaN,NaN,NaN,NaN,NaN,499.67266,http://dx.doi.org/10.1016/j.jlumin.2013.07.066
+1111,CCN(CC)c1ccc2c(-c3ccc(S(=O)(=O)[O-])cc3S(=O)(=O)[O-])c3ccc(=[N+](CC)CC)cc-3oc2c1,562,588,1.49,0.3,NaN,NaN,NaN,NaN,NaN,557.66626,http://dx.doi.org/10.1016/j.jlumin.2013.07.066
+11929,Fc1cc(F)c2cc3cccc[n+]3cc2c1,407,420,NaN,0.3,3.86923172,NaN,NaN,NaN,56.5,216.20952,https://doi.org/10.1016/j.dyepig.2008.10.003
+14942,CC1(C)C(/C=C/C=C/C=C/C=C2/N(CCCCCC(=O)O)c3ccc(S(=O)(=O)[O-])cc3C2(C)C)=[N+](CCCCS(=O)(=O)[O-])c2ccc(S(=O)(=O)[O-])cc21,749,771,NaN,0.3,5.383815366,NaN,NaN,NaN,NaN,788.95736,https://doi.org/10.1016/j.dyepig.2012.12.031
+19742,N#Cc1c(N2CCCCC2)cc(-c2cccs2)c2c1-c1cccc3cccc-2c13,458,555,NaN,0.3,NaN,NaN,NaN,NaN,NaN,392.5248,DOI: 10.1021/ol403470d
+19744,N#Cc1c(N2CCCCC2)cc(-c2ccc3c(c2)OCO3)c2c1-c1cccc3cccc-2c13,429,552,NaN,0.3,NaN,NaN,NaN,NaN,NaN,430.50568,DOI: 10.1021/ol403470d
+2435,COc1ccccc1C1=C2C=CC(=[N+](C)C)C=C2[Si](C)(C)c2cc(N(C)C)ccc21,649,663,NaN,0.29,NaN,NaN,NaN,NaN,NaN,415.63114,http://dx.doi.org/10.1021/cb1002416
+2436,COc1ccc(C2=C3C=CC(=[N+](C)C)C=C3[Si](C)(C)c3cc(N(C)C)ccc32)c(C)c1,648,662,NaN,0.29,NaN,NaN,NaN,NaN,NaN,429.65802,http://dx.doi.org/10.1021/cb1002416
+14930,CC1(C)C(/C=C/C=C/C=C/C=C2/N(CS(=O)(=O)[O-])c3ccc(S(=O)(=O)[O-])cc3C2(C)C)=[N+](CS(=O)(=O)[O-])c2ccc(S(=O)(=O)[O-])cc21,747,771,NaN,0.29,5.376576957,NaN,NaN,NaN,NaN,725.81526,https://doi.org/10.1016/j.dyepig.2012.12.031
+14932,CC1(C)C(/C=C/C=C/C=C/C=C2/N(S(=O)(=O)[O-])c3ccc(S(=O)(=O)[O-])cc3C2(C)C)=[N+](S(=O)(=O)[O-])c2ccc(S(=O)(=O)[O-])cc21,749,771,NaN,0.29,5.409933123,NaN,NaN,NaN,NaN,697.7615,https://doi.org/10.1016/j.dyepig.2012.12.031
+18905,CC[N+](CC)=c1ccc2cc3c(oc-2c1)-c1ccc(N(C)C)cc1CC3,604,641,NaN,0.282,4.8162413,NaN,NaN,NaN,NaN,347.48038,DOI: 10.1021/acs.joc.6b00981
+2437,COc1ccc(C)cc1C1=C2C=CC(=[N+](C)C)C=C2[Si](C)(C)c2cc(N(C)C)ccc21,649,664,NaN,0.28,NaN,NaN,NaN,NaN,NaN,429.65802,http://dx.doi.org/10.1021/cb1002416
+11385,CC/[NH+]=c1\cc2oc3cc(NCCC(=O)O)c4ccccc4c3nc-2cc1C,580,652,NaN,0.28,NaN,NaN,NaN,NaN,NaN,376.43468,https://doi.org/10.1016/j.tet.2007.09.042
+14934,CC1(C)C(/C=C/C=C/C=C/C=C2/N(CCCCCC(=O)O)c3ccc(S(=O)(=O)[O-])cc3C2(C)C)=[N+](CCCCCC(=O)O)c2ccc(S(=O)(=O)[O-])cc21,748,771,NaN,0.28,5.017033339,NaN,NaN,NaN,NaN,767.93818,https://doi.org/10.1016/j.dyepig.2012.12.031
+14940,CC[N+]1=C(/C=C/C=C/C=C/C=C2/N(CCCCCC(=O)O)c3ccc(S(=O)(=O)[O-])cc3C2(C)C)C(C)(C)c2cc(S(=O)(=O)[O-])ccc21,747,769,NaN,0.28,5.378397901,NaN,NaN,NaN,NaN,681.84854,https://doi.org/10.1016/j.dyepig.2012.12.031
+19745,COc1cc(-c2cc(N3CCCCC3)c(C#N)c3c2-c2cccc4cccc-3c24)cc(OC)c1OC,430,545,NaN,0.28,NaN,NaN,NaN,NaN,NaN,476.57432,DOI: 10.1021/ol403470d
+14487,CC(=O)c1ccc2ccc3c(NCCC(=O)NCCCCCCc4nc5c(=O)[nH]c(N)nc5n4[C@H]4C[C@H](O)[C@@H](CO)O4)ccc4ccc1c2c43,460,573,NaN,0.27,NaN,NaN,NaN,NaN,NaN,679.77554,https://doi.org/10.1016/j.tetlet.2011.02.088
+18582,CC[n+]1nc2cc3c4c(c2c2cc(C)ccc21)CCCN4CCC3,500,571,4.2,0.27,4.729974286,NaN,NaN,80.9,78.5,318.44256,DOI: 10.1021/acs.joc.5b00242
+12896,CC[N+]1(CC)CN2C(=N1)C(C(=O)O)=Cc1cc(C)ccc12,379,469,NaN,0.269,3.670245853,NaN,NaN,70.2,85.9,286.3538,https://doi.org/10.1016/j.dyepig.2018.09.005
+11143,O=S(=O)([O-])c1ccc([O-])c2ccccc12,NaN,435,14.976,0.26,NaN,NaN,NaN,NaN,78.4,222.21964,https://doi.org/10.1016/j.jphotochem.2018.09.013
+11380,CC/[NH+]=c1\cc2oc3cc(NCCC(=O)NC(C(=O)OC)C(C)C)c4ccccc4c3nc-2cc1C,580,653,NaN,0.26,NaN,NaN,NaN,NaN,NaN,489.59402,https://doi.org/10.1016/j.tet.2007.09.042
+11388,CC/[NH+]=c1\cc2oc3cc(NCCOC(=O)C(NC(=O)OC(C)(C)C)C(C)C)c4ccccc4c3nc-2cc1C,590,652,NaN,0.26,NaN,NaN,NaN,91.7,NaN,547.67366,https://doi.org/10.1016/j.tet.2007.09.042
+18583,CC[n+]1nc2cc3c4c(c2c2ccccc21)CCCN4CCC3,493,570,3.6,0.25,4.716837723,NaN,NaN,80.9,81.8,304.41568,DOI: 10.1021/acs.joc.5b00242
+19741,N#Cc1c(N2CCCC2)cc(-c2ccccc2)c2c1-c1cccc3cccc-2c13,428,550,NaN,0.25,NaN,NaN,NaN,NaN,NaN,372.4698,DOI: 10.1021/ol403470d
+5110,O=C([O-])c1cc2c(ccc3ccccc32)oc1=O,360,428,12.8,0.24,3.570075705,NaN,3980,NaN,NaN,239.20558,doi:10.1016/j.jphotochem.2006.02.028
+5047,COC(=O)C([NH3+])Cc1ccc2oc(-c3ccncc3)nc2c1,NaN,402.8244275,0.999,0.22,NaN,NaN,NaN,NaN,82,298.32104,https://doi.org/10.1016/S0040-4020(02)00092-3
+19740,CC(C)c1cc(N(C)C)c(C#N)c2c1-c1cccc3cccc-2c13,430,554,NaN,0.22,NaN,NaN,NaN,NaN,NaN,312.4148,DOI: 10.1021/ol403470d
+326,Nc1ccccn1,NaN,NaN,24.4,0.21,NaN,NaN,NaN,NaN,NaN,94.11664,DOI: 10.1021/j100558a015
+14363,NNC(=O)NNN1C(=O)c2cc(S(=O)(=O)[O-])cc3c(N)c(S(=O)(=O)[O-])cc(c23)C1=O,NaN,NaN,5.1,0.21,NaN,NaN,NaN,NaN,NaN,458.3874,https://doi.org/10.1016/j.cplett.2004.10.101
+14936,CC1(C)C(/C=C/C=C/C=C/C=C2/N(c3ccc(S(=O)(=O)[O-])cc3)c3ccc(S(=O)(=O)[O-])cc3C2(C)C)=[N+](c2ccc(S(=O)(=O)[O-])cc2)c2ccc(S(=O)(=O)[O-])cc21,754,779,NaN,0.21,5.285557309,NaN,NaN,NaN,NaN,849.95702,https://doi.org/10.1016/j.dyepig.2012.12.031
+72,O=C([O-])c1ccccc1-c1c2cc(Br)c(=O)c(Br)c-2oc2c(Br)c([O-])c(Br)cc12,515,538,1.425,0.2,NaN,NaN,NaN,NaN,NaN,645.87864,doi/10.1021/ja00455a017
+2438,COc1ccc(C2=C3C=CC(=[N+](C)C)C=C3[Si](C)(C)c3cc(N(C)C)ccc32)c(OC)c1,649,663,NaN,0.2,NaN,NaN,NaN,NaN,NaN,445.65702,http://dx.doi.org/10.1021/cb1002416
+4889,Nc1ccc2c(c1)Cc1ccccc1-2,315,377,2.1,0.2,3.87,NaN,NaN,NaN,NaN,181.23734,https://doi.org/10.1016/S0022-2860(98)00375-5
+5031,CC(=O)OC[C@@H]1O[C@H](N2C=CC3=Nc4nc(C)[n+](C)cc4CN3C2=O)[C@@H](O)[C@H]1O,382,414,1.04,0.2,NaN,NaN,NaN,NaN,NaN,404.40168,https://doi.org/10.1016/1010-6030(94)03924-J
+11406,CC1(C)CC(=O)C2=C(C1)Oc1ccc3ccc(O)cc3c1C2c1ccccn1,274,377,NaN,0.2,NaN,NaN,NaN,NaN,NaN,371.43474,https://doi.org/10.1016/j.jphotochem.2013.11.014
+11930,Clc1ccc2cc3cccc[n+]3cc2c1,400,408,NaN,0.2,3.662757832,NaN,NaN,NaN,47.7,214.67446,https://doi.org/10.1016/j.dyepig.2008.10.003
+11931,COc1ccc2cc3cccc[n+]3cc2c1,406,455,NaN,0.2,3.278753601,NaN,NaN,NaN,71.6,210.25528,https://doi.org/10.1016/j.dyepig.2008.10.003
+3714,COc1ccc(O)c(C(=O)[O-])c1,319,447,6.91,0.19,NaN,NaN,NaN,NaN,NaN,167.13958,/10.1023/A%3A1025037832286
+13319,O=C1NC(=O)[C@H]([C@H]2C[C@H](O)[C@@H](CO)O2)C=C1C#Cc1ccc2c(c1)Cc1ccccc1-2,358,467,NaN,0.19,4.413299764,NaN,NaN,NaN,NaN,415.44374,https://doi.org/10.1016/j.tet.2011.10.092
+14938,CC[N+]1=C(/C=C/C=C/C=C/C=C2/N(CCCCCC(=O)O)c3ccccc3C2(C)C)C(C)(C)c2cc(S(=O)(=O)[O-])ccc21,745,769,NaN,0.19,4.880813592,NaN,NaN,NaN,NaN,602.79348,https://doi.org/10.1016/j.dyepig.2012.12.031
+3940,CCNc1ccc2c(c1)C(C)(C)C(=O)C=C2,402,541,3.9,0.18,4.081347308,NaN,NaN,NaN,NaN,215.29498,https://doi.org/10.1016/j.dyepig.2018.11.012
+5657,Cc1nn(-c2ccccc2)c(C2=NN(c3ccc(Br)cc3)[C@@H](c3ccccc3)[C@@H]2c2ccccc2)c1C#N,391,485,2.6013,0.18,NaN,NaN,NaN,83.3,84.9,558.48156,doi:10.1016/j.jlumin.2010.07.004
+11387,CC/[NH+]=c1\cc2oc3cc(NCCN)c4ccccc4c3nc-2cc1C,590,647,NaN,0.18,NaN,NaN,NaN,96.9,54.8,347.44062,https://doi.org/10.1016/j.tet.2007.09.042
+5090,O=C(O)c1ccc(C2CC(c3cccc4ccccc34)=NN2c2ccccc2)cc1,383,491,1.1,0.17,4.113943352,NaN,NaN,NaN,111,392.4568,http://dx.doi.org/10.1016/j.jlumin.2014.10.045
+327,Nc1cccnc1,NaN,NaN,21.1,0.16,NaN,NaN,NaN,NaN,NaN,94.11664,DOI: 10.1021/j100558a015
+3709,O=C([O-])c1ccccc1O,296,407,4.3,0.16,NaN,NaN,NaN,NaN,NaN,137.1137,/10.1023/A%3A1025037832286
+3713,Cc1ccc(O)c(C(=O)[O-])c1,305,418,5.31,0.16,NaN,NaN,NaN,NaN,NaN,151.14058,/10.1023/A%3A1025037832286
+4867,CN(CC(O)c1cccc(O)c1)c1ccc([N+](=O)[O-])c(C2CC(c3cccc4ccccc34)=NN2c2ccccc2)c1,406,518,2.42,0.16,4.973127854,NaN,NaN,NaN,NaN,558.6362,http://dx.doi.org/10.1016/j.saa.2014.09.080
+11383,CC/[NH+]=c1\cc2oc3cc(NCCC(=O)NC(CCC(=O)OC)C(=O)OC)c4ccccc4c3nc-2cc1C,600,652,NaN,0.16,NaN,NaN,NaN,NaN,NaN,533.60302,https://doi.org/10.1016/j.tet.2007.09.042
+13574,N#Cc1ccc(N)c(C#N)c1,325,377,4,0.16,NaN,NaN,NaN,NaN,NaN,143.1487,https://doi.org/10.1016/j.cplett.2006.03.073
+19097,CC[N+](CC)=c1ccc2cc3oc4cc(N)ccc4c3oc-2c1,583,627,NaN,0.152,4.974971994,NaN,NaN,NaN,NaN,307.37186,DOI: 10.1021/acs.joc.5b00077
+1069,[NH3+]C(Cc1c[nH]c2ccccc12)C(=O)[O-],277,350,NaN,0.15,3.729002709,NaN,NaN,37,65.2,204.22828,doi: 10.3389/fmars.2015.00098
+8289,O=c1oc2ccccc2cc1-c1cc2ccccc2o1,365,475,NaN,0.15,3.875061263,NaN,NaN,NaN,NaN,262.2634,DOI: 10.1021/acs.orglett.7b00069
+13290,C#CCOc1ccc(-c2cc(-c3ccccc3)c3n2[B-](F)(F)[N+]2=C(c4ccc(OCCCS(=O)(=O)[O-])cc4)C=C(c4ccccc4)C2=N3)cc1,690,720,NaN,0.15,4.838849091,NaN,NaN,72.6,90.1,688.53726,https://doi.org/10.1016/j.tetlet.2017.10.034
+13292,O=S(=O)([O-])CCCOc1ccc(C2=[N+]3C(=Nc4c(-c5ccccc5)cc(-c5ccc(OCc6cn([C@@H]7O[C@H](CO)[C@@H](O)[C@@H](O)[C@H]7O)nn6)cc5)n4[B-]3(F)F)C(c3ccccc3)=C2)cc1,689,722,NaN,0.15,4.812913357,NaN,NaN,72.2,90.5,893.7066,https://doi.org/10.1016/j.tetlet.2017.10.034
+13293,CC(C)(C)OC(=O)NCCn1cc(COc2ccc(-c3cc(-c4ccccc4)c4n3[B-](F)(F)[N+]3=C(c5ccc(OCCCS(=O)(=O)[O-])cc5)C=C(c5ccccc5)C3=N4)cc2)nn1,692,721,NaN,0.15,4.812913357,NaN,NaN,73.8,90.9,874.75142,https://doi.org/10.1016/j.tetlet.2017.10.034
+13294,CC(C)(C)OC(=O)N[C@@H](CCn1cc(COc2ccc(-c3cc(-c4ccccc4)c4n3[B-](F)(F)[N+]3=C(c5ccc(OCCCS(=O)(=O)[O-])cc5)C=C(c5ccccc5)C3=N4)cc2)nn1)C(=O)O,688,722,NaN,0.15,4.819543936,NaN,NaN,74.2,90.9,932.7873,https://doi.org/10.1016/j.tetlet.2017.10.034
+3939,CC1(C)C(=O)C=Cc2ccc(N)cc21,377,526,3.49,0.14,4.002597981,NaN,NaN,NaN,NaN,187.24122,https://doi.org/10.1016/j.dyepig.2018.11.012
+13291,O=S(=O)([O-])CCCOc1ccc(C2=[N+]3C(=Nc4c(-c5ccccc5)cc(-c5ccc(OCc6cn([C@H]7[C@H](O)[C@H](O)[C@@H](CO)O[C@H]7O)nn6)cc5)n4[B-]3(F)F)C(c3ccccc3)=C2)cc1,688,722,NaN,0.14,4.838849091,NaN,NaN,71.4,90.9,893.7066,https://doi.org/10.1016/j.tetlet.2017.10.034
+13566,N#Cc1cc(N)cc(C#N)c1,330,408,5.8,0.14,3.423245874,NaN,NaN,NaN,NaN,143.1487,https://doi.org/10.1016/j.cplett.2006.03.073
+18867,COc1cccc(OC)c1-c1c2ccc(=[N+]3CCNCC3)cc-2oc2cc(N3CCNCC3)ccc12,542,568,NaN,0.14,4.854306042,NaN,NaN,NaN,41,485.60602,DOI: 10.1021/jo800902j
+1066,[NH3+]C(Cc1ccc(O)cc1)C(=O)[O-],274,304,3.27,0.13,3.08170727,NaN,NaN,23.5,31.1,181.19034,doi: 10.3389/fmars.2015.00098
+3941,CN(C)c1ccc2c(c1)C(C)(C)C(=O)C=C2,413,554,3.66,0.13,4.093421685,NaN,NaN,NaN,NaN,215.29498,https://doi.org/10.1016/j.dyepig.2018.11.012
+3943,CC1(C)C(=O)C=Cc2ccc(N3CCC3)cc21,387,555,3.83,0.13,4.109915863,NaN,NaN,NaN,NaN,227.30598,https://doi.org/10.1016/j.dyepig.2018.11.012
+5490,COc1cc(OC)c2c3c([nH]c2c1)C(=O)CCC3,329,489,1.83,0.13,5.201988472,NaN,NaN,60.4,90.8,245.2771,http://dx.doi.org/10.1016/j.jlumin.2015.06.048
+11379,CC[N+](CC)=c1ccc2nc3c(cc(NCCC(=O)NC(C)C(=O)OC)c4ccccc43)oc-2c1,580,684,NaN,0.13,NaN,NaN,NaN,NaN,NaN,475.56714,https://doi.org/10.1016/j.tet.2007.09.042
+18866,O=C(O)COc1cccc(OCC(=O)O)c1-c1c2ccc(=[N+]3CCCCC3)cc-2oc2cc(N3CCCCC3)ccc12,567,594,NaN,0.13,4.883661435,NaN,NaN,NaN,42,571.6479,DOI: 10.1021/jo800902j
+19091,CC[N+](CC)=c1ccc2c(-c3ccccc3C(=O)O)c3oc4cc(N)ccc4c3oc-2c1,581,634,NaN,0.126,4.853698212,NaN,NaN,NaN,NaN,427.47862,DOI: 10.1021/acs.joc.5b00077
+4856,O=[N+]([O-])c1ccc(F)cc1C1CC(c2cccc3ccccc23)=NN1c1ccccc1,375,473,1.4,0.12,4.763427994,NaN,NaN,NaN,NaN,411.43492,http://dx.doi.org/10.1016/j.saa.2014.09.080
+5743,Cn1cc(/C=C/C(=O)c2ccccc2)c2ccccc21,NaN,NaN,0.04,0.12,NaN,NaN,NaN,NaN,NaN,261.3231,doi:10.1016/j.jlumin.2011.04.008
+11660,CN(C)c1ccc2c(c1)Cc1ccccc1-2,NaN,393,2.26,0.12,NaN,NaN,NaN,NaN,NaN,209.2911,https://doi.org/10.1016/j.saa.2011.07.083
+5048,Cn1ccc(-n2cncn2)nc1=O,310,366,3.43,0.114,3.903089987,NaN,NaN,NaN,NaN,177.16658,https://doi.org/10.1016/1010-6030(91)85023-A
+1065,Cc1ccc(O)cc1,276,307,NaN,0.11,3.285557309,NaN,NaN,23.5,36.4,108.13952,doi: 10.3389/fmars.2015.00098
+3710,Cc1ccc(C(=O)[O-])c(O)c1,295,407,3.04,0.11,NaN,NaN,NaN,NaN,NaN,151.14058,/10.1023/A%3A1025037832286
+10337,N#Cc1ccc(C[C@H](N)C(=O)O)cc1,233.3347559,293.5429182,7,0.11,NaN,NaN,NaN,23,NaN,190.2014,https://doi.org/10.1016/j.cplett.2010.01.058
+18059,COCCOCCOCCOCCOc1ccc(OCCOCCOCCOCCOC)c(C=O)c1,351,481,NaN,0.11,NaN,NaN,NaN,NaN,NaN,518.59748,DOI: 10.1021/acs.joc.6b01969
+18103,COCCOc1ccc(OCCOC)c(C=O)c1,349,483,NaN,0.11,NaN,NaN,NaN,NaN,NaN,254.28092,DOI: 10.1021/acs.joc.6b01969
+18125,COCCOCCOCCOc1ccc(OCCOCCOCCOC)c(C=O)c1,350,485,NaN,0.11,NaN,NaN,NaN,NaN,NaN,430.49196,DOI: 10.1021/acs.joc.6b01969
+15115,Oc1ccccc1-c1nc2ccccc2s1,328,463,NaN,0.1008,3.63748973,NaN,NaN,NaN,NaN,227.28646,https://doi.org/10.1016/j.tetlet.2019.03.029
+1061,COc1cc(/C=C/CO)ccc1O,295,338,NaN,0.1,4.073864923,NaN,NaN,NaN,45.8,180.20228,doi: 10.3389/fmars.2015.00098
+15103,Oc1cc(-c2ccco2)ccc1-c1nc2ccccc2s1,354,516,NaN,0.1,3.741230411,NaN,NaN,NaN,NaN,293.34534,https://doi.org/10.1016/j.tetlet.2019.03.029
+15104,O=Cc1ccc(-c2ccc(-c3nc4ccccc4s3)c(O)c2)o1,326,563,NaN,0.1,3.459241665,NaN,NaN,NaN,NaN,321.35534,https://doi.org/10.1016/j.tetlet.2019.03.029
+18114,COCCOCCOc1ccc(OCCOCCOC)c(C=O)c1,350,485,NaN,0.1,NaN,NaN,NaN,NaN,NaN,342.38644,DOI: 10.1021/acs.joc.6b01969
+15404,CC(=O)c1ccn2c3c(c(-c4cc[n+](C)cc4)c2c1)CN(C)C3=O,429,501,NaN,0.093,4.093421685,NaN,NaN,68.2,72.9,320.37092,https://doi.org/10.1016/j.dyepig.2017.06.014
+3942,CCN(CC)c1ccc2c(c1)C(C)(C)C(=O)C=C2,429,552,2.56,0.09,4.128399269,NaN,NaN,NaN,NaN,243.34874,https://doi.org/10.1016/j.dyepig.2018.11.012
+5386,CCOC(=O)C1CC(c2c(C#N)c(C)nn2-c2ccccc2)=CN1c1ccc(Br)cc1,375,495,4.204,0.09,3.903089987,NaN,NaN,NaN,110.8,477.36074,doi:10.1016/j.saa.2008.04.011
+11641,C[N+](C)=c1ccc2c(-c3ccccc3C(=O)[O-])c3ccc4cc([O-])ccc4c3oc-2c1,573,627,NaN,0.09,4.644438589,NaN,NaN,67.2,60,408.43192,https://doi.org/10.1016/j.bmcl.2011.01.105
+13562,N#Cc1ccc(N)cc1C#N,326,401,1.5,0.09,3.698970004,NaN,NaN,NaN,NaN,143.1487,https://doi.org/10.1016/j.cplett.2006.03.073
+19094,CCOC(=O)c1ccccc1-c1c2ccc(=[N+](CC)CC)cc-2oc2c1oc1cc(N)ccc12,588,645,NaN,0.088,4.938519725,NaN,NaN,NaN,NaN,455.53238,DOI: 10.1021/acs.joc.5b00077
+18830,COc1ccc2nc(N)n[n+]([O-])c2c1,441,547,NaN,0.0868,3.655,NaN,NaN,NaN,87.2,192.17752,DOI: 10.1021/acs.joc.7b03035
+5507,COc1cc2[nH]c3c(c2cc1OCC(=O)O)CCCC3=O,NaN,477.5,2.226,0.082,NaN,NaN,NaN,NaN,95.2,289.2861,https://doi.org/10.1016/j.jlumin.2013.06.021
+12775,C[n+]1ccc(/C=C/c2ccc(N(c3ccccc3)c3ccc(/C=C/c4cc[n+](C)cc4)cc3)cc2)cc1,509,656,NaN,0.08,4.496929648,NaN,NaN,NaN,NaN,481.64114,https://doi.org/10.1016/j.dyepig.2012.04.009
+1067,[NH3+]C(Cc1ccc(O)c(O)c1)C(=O)[O-],278,318,NaN,0.075,3.360971884,NaN,NaN,25.3,44.6,197.18934,doi: 10.3389/fmars.2015.00098
+5049,Cc1cn(C)c(=O)nc1-n1cncn1,323,389,2.4,0.071,3.880813592,NaN,NaN,NaN,NaN,191.19346,https://doi.org/10.1016/1010-6030(91)85023-A
+4660,Nc1cccc2cn[nH]c12,294,NaN,1.74,0.07,NaN,NaN,NaN,NaN,NaN,133.15358,https://doi.org/10.1016/S1010-6030(97)00192-5
+10360,CCCN1/C(=C/C=C(/C=C/C2=[N+](CCC)c3ccccc3C2(C)C)c2ccncc2)C(C)(C)c2ccccc21,633,658,NaN,0.07,NaN,NaN,NaN,NaN,NaN,516.75048,https://doi.org/10.1016/j.dyepig.2013.12.021
+15097,Oc1ccc(-c2ccco2)cc1-c1nc2ccccc2s1,388,577,NaN,0.07,3.208978517,NaN,NaN,NaN,NaN,293.34534,https://doi.org/10.1016/j.tetlet.2019.03.029
+15107,O=Cc1ccc(-c2ccc(-c3nc4ccccc4s3)c(O)c2)s1,343,557,NaN,0.07,3.339252634,NaN,NaN,NaN,NaN,337.42234,https://doi.org/10.1016/j.tetlet.2019.03.029
+9219,CC[n+]1ccc(/C=C/c2ccc3ccc4cccc5ccc2c3c45)cc1,428,600,NaN,0.067,3.968482949,NaN,NaN,NaN,NaN,334.4408,https://doi.org/10.1016/j.snb.2018.08.075
+10170,NC(=O)Cc1cccc2ccccc12,280,324,35,0.066,3.815577748,NaN,NaN,32.8,30.9,185.22534,https://doi.org/10.1016/j.jphotochem.2013.05.009
+5595,Nc1cc([NH3+])cc(-c2nc3ccccc3s2)c1,300,493.5,3.87,0.064,4.245,NaN,NaN,NaN,NaN,242.32528,doi:10.1016/j.jphotochem.2004.12.008
+10366,CCCN1/C(=C/C=C(/C=C/c2sc3ccccc3[n+]2CCC)c2ccc([N+](=O)[O-])cc2)C(C)(C)c2ccccc21,631,662,NaN,0.06,NaN,NaN,NaN,NaN,NaN,550.74484,https://doi.org/10.1016/j.dyepig.2013.12.021
+11028,Cc1cc2nc3cc(C)c(N)cc3[n+](-c3ccccc3)c2cc1N,520,588.3,1.3,0.058,4.40654018,NaN,NaN,66.3,104.7,315.39886,https://doi.org/10.1016/j.saa.2003.12.020
+5586,Cc1cccc2nc3c(=O)[nH]c(=O)[nH]c3nc12,386,495,7.3,0.053,NaN,NaN,NaN,NaN,NaN,228.21052,doi:10.1016/j.molstruc.2003.10.028
+3938,CC1(C)C(=O)C=Cc2ccc(O)cc21,341,522,2.45,0.05,3.905256049,NaN,NaN,NaN,NaN,188.22528,https://doi.org/10.1016/j.dyepig.2018.11.012
+5097,O=C(O)C1CCCN1C(=O)c1ccc(C2CC(c3cccc4ccccc34)=NN2c2ccccc2)cc1,377,468,1.05,0.05,4.041392685,NaN,NaN,NaN,102.1,489.57338,http://dx.doi.org/10.1016/j.jlumin.2014.10.045
+10363,CCCN1/C(=C/C=C(/C=C/C2=[N+](CCC)c3ccccc3C2(C)C)c2ccc([N+](=O)[O-])cc2)C(C)(C)c2ccccc21,635,663,NaN,0.05,NaN,NaN,NaN,NaN,NaN,560.75948,https://doi.org/10.1016/j.dyepig.2013.12.021
+10375,CCCN1/C(=C/C=C/C=C/C2=[N+](CCC)c3ccccc3C2(C)C)C(C)(C)c2ccccc21,633,652,NaN,0.05,NaN,NaN,NaN,NaN,NaN,439.66466,https://doi.org/10.1016/j.dyepig.2013.12.021
+19843,O=S(=O)(/N=c1\oc2cccc3c4c(-c5ccccc5)oc5cccc(c(c1-c1ccccc1)c23)c54)C(F)(F)F,NaN,601,2.3,0.05,NaN,NaN,NaN,NaN,NaN,543.52004,DOI: 10.1021/acs.orglett.5b02042
+11529,Cc1cc(C)nc(N)n1,284,342,NaN,0.048,NaN,NaN,3250,NaN,NaN,123.15846,https://doi.org/10.1016/S1386-1425(01)00550-9
+17461,CN(C)c1ccc2c(c1)C(C)(C)C1=CC(=[N+](C)C)C=CC1=C2C#Cc1ccccc1,680,708,NaN,0.047,4.6,NaN,NaN,NaN,NaN,393.55226,DOI: 10.1021/jo500140y
+9236,CC[n+]1ccc(/C=C/c2cc3cccc4ccc5cccc2c5c43)cc1,411,606,NaN,0.045,3.819543936,NaN,NaN,NaN,NaN,334.4408,https://doi.org/10.1016/j.snb.2018.08.075
+17127,c1ccc(-c2cc(-c3ccc(-c4nc(-c5ccccn5)c(-c5ccccn5)[nH]4)cc3)cc(-c3ccccn3)n2)nc1,NaN,525,2.39,0.045,NaN,NaN,NaN,NaN,NaN,529.60562,DOI: 10.1021/jp512583m
+945,Cn1c(/C=C/c2ccc(/C=C/c3nc4ccccc4[nH]3)cc2)[n+](C)c2ccccc21,376,574,0.42,0.044,4.71432976,4136,3918,NaN,NaN,391.49662,http://dx.doi.org/10.1016/j.dyepig.2014.06.007
+4949,C[C@]12C(=O)NC(=O)N([C@H]3CC(O)[C@@H](CO)O3)[C@H]1[C@H]1Oc3cc4oc(=O)ccc4cc3[C@H]12,329,465,NaN,0.044,NaN,NaN,NaN,NaN,NaN,428.3958,https://doi.org/10.1016/0047-2670(87)85034-7
+3711,COc1ccc(C(=O)[O-])c(O)c1,292,394,1.21,0.042,NaN,NaN,NaN,NaN,NaN,167.13958,/10.1023/A%3A1025037832286
+9624,CN(C)c1ccc2c3c(c(=O)oc2c1)C=c1cc2c(cc1O3)=[N+](CCC(=O)O)CCC2,587,641,NaN,0.041,4.702430536,NaN,NaN,NaN,NaN,419.45562,https://doi.org/10.1016/j.saa.2016.03.042
+15044,CCN(CC)c1ccc2c(C)cc(=O)oc2c1,385,470,0.36,0.041,NaN,NaN,NaN,NaN,NaN,231.29398,https://doi.org/10.1016/j.chemphys.2005.04.018
+15405,CC(=O)c1ccn2c3c(c(/C=C/c4cc[n+](C)cc4)c2c1)CN(C)C3=O,459,551,NaN,0.041,4.037426498,NaN,NaN,118,57.9,346.4088,https://doi.org/10.1016/j.dyepig.2017.06.014
+185,CN1/C(=C/C=C/C2=[N+](CCCCCC(=O)O)c3ccc(S(=O)(=O)[O-])cc3C2(C)C)C(C)(C)c2cc(S(=O)(=O)[O-])ccc21,548,562,0.3,0.04,NaN,NaN,NaN,NaN,NaN,615.7459,http://www.iss.com/resources/research/technical_notes/K2CH_FLT.html
+12798,CCCN1C(=O)C(=CC=CC=C2Oc3ccccc3N2CCCS(=O)(=O)[O-])C(=O)N(CCC)C1=S,530,573,NaN,0.04,NaN,NaN,NaN,NaN,NaN,518.63332,https://doi.org/10.1016/S0301-0104(00)00378-5
+489,COCCOCCOCCNc1cc2c3c(c(NCCOCCOCCOC)cc4c3c1C(=O)N(CCOCCOCCOC)C4=O)C(=O)N(CCOCCOCCOC)C2=O,623,655,4.4,0.039,NaN,NaN,NaN,NaN,NaN,880.98216,http://dx.doi.org/10.1016/j.dyepig.2014.07.018
+18908,CC[N+](CC)=c1ccc2c(C(F)(F)F)c3c(oc-2c1)-c1ccc(N(C)C)cc1CC3,672,716,NaN,0.039,4.673020907,NaN,NaN,NaN,NaN,415.47744,DOI: 10.1021/acs.joc.6b00981
+19746,N#Cc1c(N2CCCCC2)cc(-c2ccc(O)cc2)c2c1-c1cccc3cccc-2c13,432,550,NaN,0.038,NaN,NaN,NaN,NaN,NaN,402.49568,DOI: 10.1021/ol403470d
+4641,CCOC(=O)c1ccc(NC(=O)COc2cc3c4c([nH]c3c(C)c2C)C(=O)CCC4)cc1,NaN,468.8552189,NaN,0.037,NaN,NaN,NaN,NaN,128.5,434.49044,http://dx.doi.org/10.1016/j.jphotochem.2014.09.009
+18828,Nc1nc2ccccc2[n+]([O-])n1,415,521,NaN,0.0367,3.751,NaN,NaN,NaN,NaN,162.15164,DOI: 10.1021/acs.joc.7b03035
+12134,O=c1[nH]c(=O)n([C@@H]2O[C@H](CO)[C@@H](O)[C@H]2O)cc1-c1cc2ccccc2s1,318,458,1.04,0.035,NaN,NaN,NaN,NaN,114.1,376.38804,DOI: 10.1021/ol103147t
+5554,COC(=O)/C=C/C=C/c1ccc(N(C)C)cc1,370,435,NaN,0.03392,NaN,NaN,NaN,103.8,NaN,231.29398,doi:10.1016/j.jlumin.2010.02.036
+488,COCCOCCOCCN1C(=O)c2cc(NCCOCCO)c3c4c(cc(NCCOCCO)c(c24)C1=O)C(=O)N(CCOCCOCCOC)C3=O,621,658,4.3,0.031,NaN,NaN,NaN,NaN,NaN,764.82288,http://dx.doi.org/10.1016/j.dyepig.2014.07.018
+487,CC(=O)OCCOCCN1C(=O)c2cc(NCCOCCO)c3c4c(cc(NCCOCCO)c(c24)C1=O)C(=O)N(CCOCCOC(C)=O)C3=O,622,657,4.4,0.03,NaN,NaN,NaN,NaN,NaN,732.73736,http://dx.doi.org/10.1016/j.dyepig.2014.07.018
+1059,COc1cc(C(=O)O)ccc1O,285,325,NaN,0.03,3.945271582,NaN,NaN,NaN,44.6,168.14752,doi: 10.3389/fmars.2015.00098
+3715,Nc1ccc(O)c(C(=O)[O-])c1,331,493,3.42,0.03,NaN,NaN,NaN,NaN,NaN,152.12864,/10.1023/A%3A1025037832286
+3944,COc1ccc(-c2ccc(-c3ccc(C#N)s3)s2)cc1,340,529,0.91,0.03,NaN,NaN,NaN,NaN,65.4,297.40134,https://doi.org/10.1016/j.molliq.2019.04.133
+9300,CCN(CC)c1ccc2cc(/C=C/c3cccc[n+]3CCCS(=O)(=O)[O-])c(=O)oc2c1,481,627,NaN,0.03,NaN,NaN,NaN,NaN,NaN,442.53444,https://doi.org/10.1016/j.jphotochem.2018.08.022
+9628,CCOC(=O)CC[N+]1=c2cc3c(cc2CCC1)=Cc1c(c2ccc(N(C)C)cc2oc1=O)O3,587,644,NaN,0.03,4.743509765,NaN,NaN,NaN,NaN,447.50938,https://doi.org/10.1016/j.saa.2016.03.042
+11640,C[N+](C)=c1ccc2c(-c3ccccc3C(=O)O)c3ccc4cc(O)ccc4c3oc-2c1,544,583,NaN,0.03,4.334453751,NaN,NaN,77.4,52.8,410.4478,https://doi.org/10.1016/j.bmcl.2011.01.105
+11645,C[N+](C)=c1ccc2c(-c3c(Cl)c(Cl)c(Cl)c(Cl)c3C(=O)[O-])c3ccc4cc([O-])ccc4c3oc-2c1,605,651,NaN,0.03,4.67669361,NaN,NaN,74.4,55.5,546.21216,https://doi.org/10.1016/j.bmcl.2011.01.105
+15101,O=Cc1ccc(-c2ccc(O)c(-c3nc4ccccc4s3)c2)s1,338,574,NaN,0.03,3.512684396,NaN,NaN,NaN,NaN,337.42234,https://doi.org/10.1016/j.tetlet.2019.03.029
+14025,COc1cc(/C=C2/SC(=O)NC2=O)cc(OC)c1O,358,497,0.340050378,0.027,NaN,NaN,NaN,61.2,NaN,281.28734,https://doi.org/10.1016/j.saa.2009.01.001
+17935,CC1(C)C(/C=C/c2cc3ccc(O)cc3oc2=O)=[N+](CCCS(=O)(=O)[O-])c2ccc3c(S(=O)(=O)O)cc(S(=O)(=O)O)cc3c21,578,643,NaN,0.027,4.8162413,NaN,NaN,NaN,NaN,663.6995,DOI: 10.1021/ol801582w
+2439,COc1ccc(OC)c(C2=C3C=CC(=[N+](C)C)C=C3[Si](C)(C)c3cc(N(C)C)ccc32)c1,651,665,NaN,0.025,NaN,NaN,NaN,NaN,NaN,445.65702,http://dx.doi.org/10.1021/cb1002416
+18829,Nc1nc2ccc(F)cc2[n+]([O-])n1,422,526,NaN,0.0244,3.749,NaN,NaN,NaN,82.6,180.1417,DOI: 10.1021/acs.joc.7b03035
+3504,O=[N+]([O-])c1ccc(/C=C/c2c[nH]c3ccccc23)cc1,418,552,NaN,0.024,NaN,NaN,NaN,NaN,NaN,264.28328,DOI: 10.1002/poc.1222
+1276,CN(C)c1ccc2c(-c3ccc(N)cc3C(=O)[O-])c3ccc(=[N+](C)C)cc-3oc2c1,544,572,2.23,0.023,NaN,NaN,NaN,NaN,NaN,401.46462,http://dx.doi.org/10.1016/j.jlumin.2016.07.031
+1029,[NH3+]C(Cc1ccccc1)C(=O)[O-],258,280,NaN,0.022,NaN,NaN,NaN,NaN,NaN,165.19134,doi:10.1351/PAC-REP-10-09-31
+1277,CN(C)c1ccc2c(-c3cc(N)ccc3C(=O)[O-])c3ccc(=[N+](C)C)cc-3oc2c1,544,574,2.22,0.022,NaN,NaN,NaN,NaN,NaN,401.46462,http://dx.doi.org/10.1016/j.jlumin.2016.07.031
+755,O=C(O)C1=C/C(=C/C=[NH+]/c2ccc3c(C(F)(F)F)cc(=O)oc3c2)CC(C(=O)O)N1,519,570,0.1,0.021,4.812913357,NaN,NaN,74.3,60.8,423.32216,https://doi.org/10.1016/j.dyepig.2017.11.020
+2620,CN(C)CCCN1c2ccccc2CCc2ccccc21,275,400,1.12,0.021,3.81,NaN,NaN,NaN,100.5,280.41356,10.1021/jp0710739
+73,O=C([O-])c1ccccc1-c1c2cc(I)c(=O)c(I)c-2oc2c(I)c([O-])c(I)cc12,521,534,0.115,0.02,NaN,NaN,NaN,NaN,NaN,833.86264,doi/10.1021/ja00455a017
+132,CN(C)c1ccc2nc3ccc(N(C)C)cc3[s+]c2c1,664,683,0.3544,0.02,4.591621038,NaN,NaN,79.8,41.3,284.40592,http://dx.doi.org/10.1016/j.dyepig.2015.03.004
+3958,COc1cc(OC)cc(-c2ccc(-c3ccc(C#N)s3)s2)c1,337,529,1.02,0.02,NaN,NaN,NaN,NaN,84.1,327.42722,https://doi.org/10.1016/j.molliq.2019.04.133
+4372,CCCC(=O)c1c2c(c(C(=O)CCC)c3c1OC(CC(=O)OC)(C(=O)O)O3)OCO2,448,637,2.7,0.02,3.556302501,NaN,NaN,NaN,NaN,422.38468,https://doi.org/10.1016/j.tetlet.2011.09.058
+10372,CCCN1/C(=C/C=C(/C=C/C2=[N+](CCC)c3ccccc3C2(C)C)c2cc[n+](C)cc2)C(C)(C)c2ccccc21,626,658,NaN,0.02,NaN,NaN,NaN,NaN,NaN,531.7853,https://doi.org/10.1016/j.dyepig.2013.12.021
+10378,CCCN1/C(=C/C=C(/C=C/c2sc3ccccc3[n+]2CCC)c2ccc([N+](=O)[O-])cc2)Sc2ccccc21,642,669,NaN,0.02,NaN,NaN,NaN,NaN,NaN,540.7302,https://doi.org/10.1016/j.dyepig.2013.12.021
+11643,C[N+](C)=c1ccc2c(-c3c(F)c(F)c(F)c(F)c3C(=O)[O-])c3ccc4cc([O-])ccc4c3oc-2c1,603,650,NaN,0.02,4.7355989,NaN,NaN,88.5,57.6,480.39216,https://doi.org/10.1016/j.bmcl.2011.01.105
+15098,O=Cc1ccc(-c2ccc(O)c(-c3nc4ccccc4s3)c2)o1,349,564,NaN,0.02,3.78096503,NaN,NaN,NaN,NaN,321.35534,https://doi.org/10.1016/j.tetlet.2019.03.029
+15113,O=Cc1ccc(-c2cccc(-c3nc4ccccc4s3)c2O)s1,360,595,NaN,0.02,NaN,NaN,NaN,NaN,NaN,337.42234,https://doi.org/10.1016/j.tetlet.2019.03.029
+74,O=C([O-])c1c(Cl)c(Cl)c(Cl)c(Cl)c1-c1c2cc(I)c(=O)c(I)c-2oc2c(I)c([O-])c(I)cc12,548,566,0.095,0.018,NaN,NaN,NaN,NaN,NaN,971.64288,doi/10.1021/ja00455a017
+12907,CC[N+]1(CC)CN2C(=N1)C(C(=O)O)=Cc1c(OC)ccc(OC)c12,368,515,NaN,0.018,3.688953463,NaN,NaN,67.1,68.1,332.37868,https://doi.org/10.1016/j.dyepig.2018.09.005
+5819,COC(=O)C(Cc1ccc2oc(-c3c4ccccc4cc4ccccc34)nc2c1)NC(=O)OC(C)(C)C,386.0005327,514.9993563,1.2,0.017,NaN,NaN,NaN,NaN,NaN,496.56132,doi:10.1016/j.jphotochem.2004.08.015
+14824,O=c1oc2ccccc2c(O)c1C(CC(O)c1ccc(-c2ccc(Br)cc2)cc1)c1ccccc1,NaN,397,NaN,0.017,NaN,NaN,NaN,NaN,NaN,527.41262,https://doi.org/10.1016/j.chemosphere.2005.04.095
+4430,[C-]#[N+]c1ccc(-c2ccc(N(C)C)cc2)cc1,315,417,NaN,0.016,NaN,NaN,NaN,NaN,NaN,222.29016,http://dx.doi.org/10.1016/j.jphotochem.2015.12.006
+5050,Cc1cn(CCCn2cc(C)c(=O)[nH]c2=O)c(=O)nc1-n1cncn1,325,382,0.74,0.016,3.832508913,NaN,NaN,NaN,NaN,343.34598,https://doi.org/10.1016/1010-6030(91)85023-A
+8516,CN(C)c1ccc(/C=C/C=N/N=C/c2ccc3ccc4cccc5ccc2c3c45)cc1,420,478,NaN,0.016,3.397940009,NaN,NaN,NaN,NaN,401.51162,10.1021/acsomega.8b02717
+5443,CN(C)c1ccc(/C=C/c2ccccn2)cc1,348,512,NaN,0.015,NaN,NaN,NaN,84,87.9,224.30604,http://dx.doi.org/10.1016/j.dyepig.2013.10.040
+8467,CN(C)CCCN1c2ccccc2Sc2ccccc21,302,452,2.04,0.0143,3.434568904,NaN,NaN,NaN,NaN,284.4258,10.1021/jp044530j
+3712,Nc1ccc(C(=O)[O-])c(O)c1,298,389,0.62,0.014,NaN,NaN,NaN,NaN,NaN,152.12864,/10.1023/A%3A1025037832286
+19100,CC[N+](CC)=c1ccc2c(C(F)(F)F)c3oc4cc(N)ccc4c3oc-2c1,640,707,NaN,0.014,4.564073979,NaN,NaN,NaN,NaN,375.36892,DOI: 10.1021/acs.joc.5b00077
+2458,CN1C(=O)/C(=C/c2ccncc2)N=C1/C=C/c1ccncc1,402,542,NaN,0.013,4.146128036,NaN,NaN,NaN,NaN,290.32516,DOI: 10.1021/acs.jpclett.8b00512
+4635,Cc1c(OCC(=O)O)cc2c3c([nH]c2c1C)C(=O)CCC3,NaN,507.2332731,1.77,0.013,NaN,NaN,NaN,NaN,103.6,287.31398,http://dx.doi.org/10.1016/j.jphotochem.2014.09.009
+17927,CC1(C)C(/C=C/C=C/c2cc3ccc(O)cc3oc2=O)=[N+](CCCS(=O)(=O)[O-])c2ccccc21,564,720,NaN,0.013,4.431363764,NaN,NaN,NaN,NaN,479.5515,DOI: 10.1021/ol801582w
+17929,CC1(C)C(/C=C/c2cc3ccc(O)cc3oc2=O)=[N+](CCCS(=O)(=O)[O-])c2ccc(S(=O)(=O)O)cc21,573,636,NaN,0.013,4.847572659,NaN,NaN,NaN,NaN,533.57662,DOI: 10.1021/ol801582w
+18836,COc1ccc2c(c1)[n+]([O-])nc(N)[n+]2[O-],440,542,NaN,0.0124,3.765,NaN,NaN,NaN,87.2,208.17652,DOI: 10.1021/acs.joc.7b03035
+2621,CNCCCN1c2ccccc2CCc2ccccc21,275,400,0.7,0.012,3.81,NaN,NaN,NaN,NaN,266.38668,10.1021/jp0710739
+5061,CN(C)c1ccc(-c2nc3cnccc3[nH]2)cc1,335,415,NaN,0.011,4.37,NaN,NaN,54.6,59.5,238.29316,https://doi.org/10.1016/S1386-1425(99)00059-1
+5491,O=C(O)COc1ccc2[nH]c3c(c2c1)CCCC3=O,NaN,507.6923077,1.769,0.011,NaN,NaN,NaN,NaN,109.2,259.26022,https://doi.org/10.1016/j.jlumin.2013.06.021
+5596,[NH3+]c1cc([NH3+])cc(-c2nc3ccccc3s2)c1,315,402,0.59,0.011,4.2465,NaN,NaN,NaN,NaN,243.33322,doi:10.1016/j.jphotochem.2004.12.008
+6139,CN(C)c1c2ccccc2cc2ccccc12,385,390,5.7,0.011,NaN,NaN,NaN,NaN,NaN,221.3021,DOI: 10.1021/jp9638696
+14023,O=C1NC(=O)/C(=C\c2ccccc2O)S1,351,480,0.643274854,0.011,NaN,NaN,NaN,NaN,NaN,221.23558,https://doi.org/10.1016/j.saa.2009.01.001
+14024,COc1cc(/C=C2/SC(=O)NC2=O)ccc1O,355,474,0.280612245,0.011,NaN,NaN,NaN,NaN,NaN,251.26146,https://doi.org/10.1016/j.saa.2009.01.001
+17932,CC1(C)C(/C=C/C=C/c2cc3ccc(O)cc3oc2=O)=[N+](CCCS(=O)(=O)[O-])c2ccc(S(=O)(=O)O)cc21,592,722,NaN,0.011,4.389166084,NaN,NaN,NaN,NaN,559.6145,DOI: 10.1021/ol801582w
+8230,C[n+]1ccc(/C=C/c2ccc3cc(O)ccc3c2)cc1,390,565,NaN,0.01,NaN,NaN,NaN,NaN,NaN,262.33104,http://dx.doi.org/10.1021/jp3106869
+9354,CCN(CC)c1ccc2c(c1)oc(=O)c1c(-c3ccccc3C(=O)O)c3ccc(=[N+](CC)CC)cc-3oc12,594,646,0.31,0.01,4.428134794,NaN,NaN,65,71.8,511.59614,http://dx.doi.org/10.1021/jo400783x
+9363,CCOC(=O)c1ccccc1-c1c2ccc(=[N+](CC)CC)cc-2oc2c1c(=O)oc1cc(N(CC)CC)ccc12,596,652,0.27,0.01,4.854913022,NaN,NaN,65.7,70.1,539.6499,http://dx.doi.org/10.1021/jo400783x
+10369,CCCN1/C(=C/C=C(/C=C/C2=[N+](CCC)c3ccccc3C2(C)C)c2ccc3ccccc3n2)C(C)(C)c2ccccc21,633,653,NaN,0.01,NaN,NaN,NaN,NaN,NaN,566.81036,https://doi.org/10.1016/j.dyepig.2013.12.021
+11642,C[N+](C)=c1ccc2c(-c3c(F)c(F)c(F)c(F)c3C(=O)O)c3ccc4cc(O)ccc4c3oc-2c1,571,603,NaN,0.01,4.460897843,NaN,NaN,87.9,55.2,482.40804,https://doi.org/10.1016/j.bmcl.2011.01.105
+11644,C[N+](C)=c1ccc2c(-c3c(Cl)c(Cl)c(Cl)c(Cl)c3C(=O)O)c3ccc4cc(O)ccc4c3oc-2c1,574,603,NaN,0.01,4.491361694,NaN,NaN,100.4,52,548.22804,https://doi.org/10.1016/j.bmcl.2011.01.105
+14788,CC[n+]1ccc(/C=C/c2cc(OC)c(C=O)cc2OC)cc1,NaN,558,NaN,0.01,NaN,NaN,NaN,NaN,NaN,298.3608,https://doi.org/10.1016/j.molstruc.2015.03.036
+15105,N#CC(C#N)=Cc1ccc(-c2ccc(-c3nc4ccccc4s3)c(O)c2)o1,394,596,NaN,0.01,3.512684396,NaN,NaN,NaN,NaN,369.40334,https://doi.org/10.1016/j.tetlet.2019.03.029
+15106,Oc1cc(-c2cccs2)ccc1-c1nc2ccccc2s1,370,517,NaN,0.01,3.442479769,NaN,NaN,NaN,NaN,309.41234,https://doi.org/10.1016/j.tetlet.2019.03.029
+15108,N#CC(C#N)=Cc1ccc(-c2ccc(-c3nc4ccccc4s3)c(O)c2)s1,388,609,NaN,0.01,3.445915414,NaN,NaN,NaN,NaN,385.47034,https://doi.org/10.1016/j.tetlet.2019.03.029
+15109,Oc1c(-c2ccco2)cccc1-c1nc2ccccc2s1,360,569,NaN,0.01,NaN,NaN,NaN,NaN,NaN,293.34534,https://doi.org/10.1016/j.tetlet.2019.03.029
+15110,O=Cc1ccc(-c2cccc(-c3nc4ccccc4s3)c2O)o1,360,585,NaN,0.01,NaN,NaN,NaN,NaN,NaN,321.35534,https://doi.org/10.1016/j.tetlet.2019.03.029
+15111,N#CC(C#N)=Cc1ccc(-c2cccc(-c3nc4ccccc4s3)c2O)o1,443,635,NaN,0.01,NaN,NaN,NaN,NaN,NaN,369.40334,https://doi.org/10.1016/j.tetlet.2019.03.029
+15112,Oc1c(-c2cccs2)cccc1-c1nc2ccccc2s1,346,587,NaN,0.01,NaN,NaN,NaN,NaN,NaN,309.41234,https://doi.org/10.1016/j.tetlet.2019.03.029
+15114,N#CC(C#N)=Cc1ccc(-c2cccc(-c3nc4ccccc4s3)c2O)s1,397,646,NaN,0.01,3.36604921,NaN,NaN,NaN,NaN,385.47034,https://doi.org/10.1016/j.tetlet.2019.03.029
+5594,Nc1cc(N)cc(-c2nc3ccccc3s2)c1,360,541,1.32,0.0091,3.278,NaN,NaN,NaN,NaN,241.31734,doi:10.1016/j.jphotochem.2004.12.008
+1060,COc1cc(C(=O)O)cc(OC)c1O,260,333,NaN,0.009,4.163668154,NaN,NaN,NaN,51.7,198.1734,doi: 10.3389/fmars.2015.00098
+13858,C=CCNc1ccc2c(ccc3oc4cc(=[N+](C)C)ccc-4nc32)c1,579,660,NaN,0.009,4.089905111,NaN,NaN,NaN,NaN,330.4098,https://doi.org/10.1016/j.dyepig.2017.03.031
+18910,CC[N+](CC)=c1ccc2cc3c(=O)oc4cc5c(cc4c3oc-2c1)CCCN5C,598,658,NaN,0.009,4.591064607,NaN,NaN,NaN,NaN,389.4735,DOI: 10.1021/acs.joc.6b00981
+20056,CC1=CC(=[N+]2CCC2)C=C2C1=Nc1c(C)cc(N3CCC3)cc1[Si]2(C)C,725,739,NaN,0.009,4.84509804,NaN,NaN,NaN,NaN,362.57132,DOI: 10.1021/acs.orglett.8b01786
+4400,[C-]#[N+]c1ccc(-c2ccc(N)cc2)cc1,298,457,NaN,0.0088,NaN,NaN,NaN,NaN,NaN,194.2364,http://dx.doi.org/10.1016/j.jphotochem.2015.12.006
+4415,[C-]#[N+]c1ccc(-c2ccc(NC)cc2)cc1,305,458,NaN,0.0087,NaN,NaN,NaN,NaN,NaN,208.26328,http://dx.doi.org/10.1016/j.jphotochem.2015.12.006
+5597,[NH3+]c1cc([NH3+])cc(-c2[nH+]c3ccccc3s2)c1,328,460,0.52,0.008,4.287,NaN,NaN,NaN,NaN,244.34116,doi:10.1016/j.jphotochem.2004.12.008
+10311,NC(=O)CC[C@H](/[NH+]=C\C=C1\C=C(C(=O)O)N[C@H](C(=O)O)C1)C(=O)O,475,513,NaN,0.0073,NaN,NaN,NaN,59.6,65.3,340.31092,https://doi.org/10.1016/j.jlumin.2015.06.030
+13850,C=CCNc1ccc2ccc3oc4cc(=[N+](C)C)ccc-4nc3c2c1,552,650,NaN,0.007,4.274157849,NaN,NaN,NaN,NaN,330.4098,https://doi.org/10.1016/j.dyepig.2017.03.031
+13862,C=CCNc1ccc2ccc3oc4cc(=O)ccc-4nc3c2c1,522,624,NaN,0.007,4.359835482,NaN,NaN,NaN,NaN,302.33216,https://doi.org/10.1016/j.dyepig.2017.03.031
+17924,CC1(C)C(/C=C/c2cc3ccc(O)cc3oc2=O)=[N+](CCCS(=O)(=O)[O-])c2ccccc21,555,620,NaN,0.007,4.357934847,NaN,NaN,NaN,NaN,453.51362,DOI: 10.1021/ol801582w
+2455,CN1C(=O)/C(=C/c2ccncc2)N=C1c1ccccc1,368,477,NaN,0.0069,4.217483944,NaN,NaN,NaN,NaN,263.29922,DOI: 10.1021/acs.jpclett.8b00512
+2454,CC1=N/C(=C\c2ccncc2)C(=O)N1C,347,464,NaN,0.0065,4.021189299,NaN,NaN,NaN,NaN,201.22834,DOI: 10.1021/acs.jpclett.8b00512
+754,Cc1cc(=O)oc2cc(/[NH+]=C/C=C3/C=C(C(=O)O)NC(C(=O)O)C3)ccc12,520,570,0.038,0.006,4.812913357,NaN,NaN,74.3,75.7,369.35198,https://doi.org/10.1016/j.dyepig.2017.11.020
+1064,O=C(O)c1cc(O)c(O)c(O)c1,258,341,NaN,0.006,3.918187661,NaN,NaN,NaN,60.5,170.11964,doi: 10.3389/fmars.2015.00098
+2622,CN(C)CCCN1c2ccccc2CCc2ccc(Cl)cc21,279,400,0.18,0.006,3.78,NaN,NaN,NaN,NaN,314.85862,10.1021/jp0710739
+8489,CSc1ccc2c(c1)N(CCCN1CCN(C)CN1C)c1ccccc1S2,312,466,1.47,0.006,3.633468456,NaN,NaN,NaN,NaN,400.61332,10.1021/jp044530j
+13854,C=CCNc1ccc2ccc3oc4cc(=[N+]5CCCC5)ccc-4nc3c2c1,556,650,NaN,0.006,4.170261715,NaN,NaN,NaN,NaN,356.44768,https://doi.org/10.1016/j.dyepig.2017.03.031
+779,O=C1/C(=C2\Sc3ccc(S(=O)(=O)O)cc3C2=O)Sc2ccc(S(=O)(=O)O)cc21,546,644,0.13,0.005,4.056523724,NaN,NaN,NaN,NaN,456.49552,https://doi.org/10.1016/j.dyepig.2018.05.049
+13550,N#Cc1ccccc1N,315,383,0.11,0.005,3.591064607,NaN,NaN,NaN,NaN,118.13864,https://doi.org/10.1016/j.cplett.2006.03.073
+13558,N#Cc1ccc(N)cc1,283,344,0.067,0.0046,4.255272505,NaN,NaN,NaN,NaN,118.13864,https://doi.org/10.1016/j.cplett.2006.03.073
+2456,CN1C(=O)/C(=C/c2ccncc2)N=C1/C=C/c1ccccc1,408,560,NaN,0.004,4.041392685,NaN,NaN,NaN,NaN,289.3371,DOI: 10.1021/acs.jpclett.8b00512
+17463,CN(C)c1ccc2c(c1)[Si](C)(C)C1=CC(=[N+](C)C)C=CC1=C2C#Cc1ccccc1,712,736,NaN,0.004,4.75,NaN,NaN,NaN,NaN,409.62726,DOI: 10.1021/jo500140y
+8472,CN(C)CCCN1c2ccccc2Sc2ccc(Cl)cc21,307,453,0.35,0.0036,3.544068044,NaN,NaN,NaN,NaN,318.87086,10.1021/jp044530j
+8483,CN1CCN(CCCN2c3ccccc3Sc3ccc(Cl)cc32)CC1,309,457,NaN,0.0033,3.579783597,NaN,NaN,NaN,NaN,373.95056,10.1021/jp044530j
+18834,Nc1n[n+]([O-])c2ccccc2[n+]1[O-],457,545,NaN,0.0033,3.786,NaN,NaN,NaN,NaN,178.15064,DOI: 10.1021/acs.joc.7b03035
+3508,CC(=O)n1cc(/C=C/c2ccc([N+](=O)[O-])cc2)c2ccccc21,381,537,NaN,0.003,NaN,NaN,NaN,NaN,NaN,306.32016,DOI: 10.1002/poc.1222
+3512,O=[N+]([O-])c1ccc(/C=C/c2cn(S(=O)(=O)c3ccccc3)c3ccccc23)cc1,378,540,NaN,0.003,NaN,NaN,NaN,NaN,NaN,404.44504,DOI: 10.1002/poc.1222
+4251,COC(=O)C(Cc1ccc2oc(-c3ccc(N(c4ccccc4)c4ccccc4)cc3)nc2c1)NC(=O)OC(C)(C)C,367.0007597,502.9928072,NaN,0.003,NaN,NaN,NaN,NaN,NaN,563.65202,doi:10.1016/j.saa.2004.06.035
+8480,CSc1ccc2c(c1)N(CCCN(C)C)c1ccccc1S2,312,475,1.17,0.003,3.62324929,NaN,NaN,NaN,NaN,330.51868,10.1021/jp044530j
+9632,O=C(O)CC[N+]1=c2cc3c(cc2CCC1)=Cc1c(c2cc4c5c(c2oc1=O)CCCN5CCC4)O3,608,684,NaN,0.003,4.564666064,NaN,NaN,NaN,NaN,471.53138,https://doi.org/10.1016/j.saa.2016.03.042
+9942,CC1=N/C(=C\c2ccccc2N(C)C)C(=O)N1C,346,426,NaN,0.003,NaN,NaN,NaN,NaN,NaN,243.30898,dx.doi.org/10.1021/jo302050y
+18580,CC[n+]1nc2ccc(N(C)C)cc2c2cc(C)ccc21,483,542,NaN,0.003,4.399673721,NaN,NaN,73.4,NaN,266.3668,DOI: 10.1021/acs.joc.5b00242
+18835,Nc1n[n+]([O-])c2cc(F)ccc2[n+]1[O-],468,562,NaN,0.003,3.807,NaN,NaN,NaN,87.8,196.1407,DOI: 10.1021/acs.joc.7b03035
+2457,COc1ccc(/C=C/C2=N/C(=C\c3ccncc3)C(=O)N2C)cc1,425,577,NaN,0.0029,4.130333768,NaN,NaN,NaN,NaN,319.36298,DOI: 10.1021/acs.jpclett.8b00512
+4954,O=c1ccc2cc3ccoc3cc2o1,303,505,NaN,0.0028,NaN,NaN,NaN,NaN,NaN,186.16564,https://doi.org/10.1016/0047-2670(87)85034-7
+1063,COc1cc(/C=C/C(=O)O)ccc1O,287,413,NaN,0.002,4.150664354,NaN,NaN,69.9,83.4,194.1854,doi: 10.3389/fmars.2015.00098
+2763,N#Cc1ccc(N)c2nonc12,430,612,NaN,0.002,3.81,NaN,NaN,84.1,123.1,160.13576,DOI: 10.1021/acs.joc.7b00939
+4983,CN(C)c1ccc(/C=C/C(=O)O)cc1,323,453,0.072,0.002,NaN,NaN,NaN,82.9,58.6,191.22922,doi:10.1016/j.saa.2009.03.004
+5598,[NH-]c1cc(N)cc(-c2nc3ccccc3s2)c1,343,484,3.98,0.002,4.114,NaN,NaN,NaN,NaN,240.3094,doi:10.1016/j.jphotochem.2004.12.008
+9636,CCOC(=O)CC[N+]1=c2cc3c(cc2CCC1)=Cc1c(c2cc4c5c(c2oc1=O)CCCN5CCC4)O3,610,688,NaN,0.002,4.699404082,NaN,NaN,NaN,NaN,499.58514,https://doi.org/10.1016/j.saa.2016.03.042
+13322,O=C1NC(=O)[C@H]([C@H]2C[C@H](O)[C@@H](CO)O2)C=C1C#Cc1ccc2c(c1)C(=O)c1ccccc1-2,342,545,NaN,0.0019,4.301029996,NaN,NaN,NaN,NaN,429.42686,https://doi.org/10.1016/j.tet.2011.10.092
+13554,N#Cc1cccc(N)c1,307,392,0.045,0.0019,3.367355921,NaN,NaN,NaN,NaN,118.13864,https://doi.org/10.1016/j.cplett.2006.03.073
+8477,CN(C)CCCN1c2ccccc2Sc2ccc(C(F)(F)F)cc21,306,475,3.17,0.0014,3.505149978,NaN,NaN,NaN,NaN,352.42286,10.1021/jp044530j
+8486,CN1CCN(CCCN2c3ccccc3Sc3ccc(C(F)(F)F)cc32)CC1,308,482,3.01,0.0014,3.568201724,NaN,NaN,NaN,NaN,407.50256,10.1021/jp044530j
+11442,CN(C)c1ccc(/C=C/c2nc3ccccc3s2)cc1,402,516,NaN,0.0012,4.1,NaN,NaN,NaN,NaN,280.39404,https://doi.org/10.1016/j.jphotochem.2007.11.004
+1058,O=C(O)c1ccccc1,266,315,NaN,0.001,3.890532792,NaN,NaN,NaN,44.6,122.12264,doi: 10.3389/fmars.2015.00098
+1070,O=c1ccc2ccccc2o1,306,385,NaN,0.001,3.728921646,NaN,NaN,70.5,100.4,146.14464,doi: 10.3389/fmars.2015.00098
+2440,Cc1cc(N(C)C)ccc1C1=C2C=CC(=[N+](C)C)C=C2[Si](C)(C)c2cc(N(C)C)ccc21,646,663,NaN,0.001,NaN,NaN,NaN,NaN,NaN,442.70084,http://dx.doi.org/10.1021/cb1002416
+2441,Cc1ccc(N(C)C)cc1C1=C2C=CC(=[N+](C)C)C=C2[Si](C)(C)c2cc(N(C)C)ccc21,646,662,NaN,0.001,NaN,NaN,NaN,NaN,NaN,442.70084,http://dx.doi.org/10.1021/cb1002416
+3857,N#Cc1coc2ccccc2c1=O,312,396,1.36,0.001,NaN,NaN,NaN,NaN,105.4,171.1547,https://doi.org/10.1016/j.chemphys.2018.09.042
+9935,CC1=N/C(=C\c2ccccc2N)C(=O)N1C,390,452,NaN,0.001,NaN,NaN,NaN,NaN,NaN,215.25522,dx.doi.org/10.1021/jo302050y
+14802,CCCCCCc1ccsc1-c1ccc(-c2sc(C(=O)O)cc2CCCCCC)s1,365,490,NaN,0.001,4.130333768,NaN,NaN,NaN,NaN,460.72508,https://doi.org/10.1016/j.jlumin.2015.12.050
+17891,C/C=C/C=C/C1=N/C(=C\c2ccc(O)cc2)C(=O)N1C,421,523,NaN,0.0008,NaN,NaN,NaN,NaN,NaN,268.31504,DOI: 10.1021/ol0200403
+17893,C/C=C/C=C/C1=N/C(=C\c2ccc([O-])cc2)C(=O)N1C,482,565,NaN,0.0008,NaN,NaN,NaN,NaN,NaN,267.3071,DOI: 10.1021/ol0200403
+12955,O=C(O)C1=C/C(=C/C=[N+]2/c3cc(O)c(C[C@@H]4O[C@H](CO)[C@@H](O)C(O)[C@H]4O)cc3C[C@H]2C(=O)O)C[C@@H](C(=O)O)N1,535,640,NaN,0.0007,NaN,NaN,NaN,NaN,NaN,549.50726,https://doi.org/10.1016/j.jphotochem.2016.09.027
+12959,O=C(O)C1=C/C(=C/C=[N+]2/c3cc(O)c(C[C@@H]4O[C@H](CO)[C@@H](O)C(O)[C@H]4O)cc3C[C@H]2C(=O)O)C[C@H](C(=O)O)N1,536,641,NaN,0.0007,NaN,NaN,NaN,81.5,168.3,549.50726,https://doi.org/10.1016/j.jphotochem.2016.09.027
+17890,C/C=C/C1=N/C(=C\c2ccc([O-])cc2)C(=O)N1C,460,530,NaN,0.0006,NaN,NaN,NaN,NaN,NaN,241.26922,DOI: 10.1021/ol0200403
+328,Nc1ccncc1,NaN,NaN,2.3,0.0005,NaN,NaN,NaN,NaN,NaN,94.11664,DOI: 10.1021/j100558a015
+17888,C/C=C/C1=N/C(=C\c2ccc(O)cc2)C(=O)N1C,401,460,NaN,0.0005,NaN,NaN,NaN,NaN,NaN,242.27716,DOI: 10.1021/ol0200403
+13113,O=c1c(Nc2ccccc2)c([O-])c1=[NH+]c1ccccc1,374,504,NaN,0.00043,3.482873584,NaN,13729,71,NaN,264.28328,https://doi.org/10.1016/j.dyepig.2015.12.027
+2088,Nc1nc2c(ncn2[C@H]2C[C@H](O)[C@@H](CO)O2)c(=O)[nH]1,274.0026304,338.9830508,0.0006,0.00023,NaN,NaN,7850,NaN,NaN,267.24422,DOI: 10.1021/acs.jpca.5b00688
+9949,CC1=N/C(=C\c2ccc(N(C)C)cc2)C(=O)N1C,446,520,NaN,0.0002,NaN,NaN,NaN,83.8,94.7,243.30898,dx.doi.org/10.1021/jo302050y
+12963,O=C(O)C1=CC(=C/C=[N+]2/c3cc(O)c(C[C@@H]4O[C@H](CO)[C@@H](O)C(O)[C@H]4O)cc3C[C@H]2C(=O)O)C=C(C(=O)O)N1,468,620,NaN,0.0002,NaN,NaN,NaN,83.5,182.6,547.49138,https://doi.org/10.1016/j.jphotochem.2016.09.027
+2089,Nc1nc2c([nH]c(=O)n2[C@H]2C[C@H](O)[C@@H](CO)O2)c(=O)[nH]1,294.9852507,353.9823009,0.0008,0.00013,NaN,NaN,8950,NaN,NaN,283.24322,DOI: 10.1021/acs.jpca.5b00688
+1057,Cn1c(=O)c2c(ncn2C)n(C)c1=O,258,NaN,NaN,0,4.198409634,NaN,NaN,NaN,NaN,194.1934,doi: 10.3389/fmars.2015.00098
+11120,CCN(CC)c1ccc2cc(/C=C/C(=O)c3cc4ccc(N(CC)CC)cc4oc3=O)c(=O)oc2c1,NaN,NaN,NaN,0,NaN,NaN,NaN,NaN,NaN,486.5662,https://doi.org/10.1016/j.dyepig.2018.01.004
